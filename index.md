@@ -1,7 +1,10 @@
 ---
 title: Overview
 layout: home
+nav_order: 1
 ---
+
+Guideline materials and documentation for the Genetic Diversity Indicators
 
 In 2020, Laikre, Hoban and colleagues outlined an approach to assess genetic diversity status and trends without requiring any genetic data (e.g. DNA sequence), using ‘genetic indicators’. These are:
 
