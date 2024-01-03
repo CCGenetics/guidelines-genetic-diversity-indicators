@@ -1,16 +1,15 @@
 # Genetic Diversity Indicator guidelines
 
-This repository host the guideline materials and documentation for the assessment of species genetic diversity using genetic diversity indicators. The repository uses the [Just the Docs] theme. 
+This repository host the guideline materials and documentation for the assessment of species genetic diversity using genetic diversity indicators. 
 
 You can browse the documentation at https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/
 
 
 ## Licensing and Attribution
 
-This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE]. 
+This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE](LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme. 
 
 The documentation was developed by the genetic diversity indicator team. 
-
 
 If you use any of the materials listed below, please cite: 
 
