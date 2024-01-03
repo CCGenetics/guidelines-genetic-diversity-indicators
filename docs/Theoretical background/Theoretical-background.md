@@ -6,10 +6,9 @@ has_children: true
 ---
 
 # Theoretical background
+{: .no_toc }
 
-This section has a brief theoretical background on:
+This section has a brief theoretical background on the genetic diversity indicators.
 
-* Ne 500 indicator
-* Populations maintained indicator
-* What is a population
+
 
