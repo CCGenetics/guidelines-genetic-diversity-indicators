@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-Guideline materials and documentation for the Genetic Diversity Indicators
+# Guideline materials and documentation for the Genetic Diversity Indicators
 
 In 2020, Laikre, Hoban and colleagues outlined an approach to assess genetic diversity status and trends without requiring any genetic data (e.g. DNA sequence), using ‘genetic indicators’. These are:
 
@@ -14,10 +14,17 @@ In 2020, Laikre, Hoban and colleagues outlined an approach to assess genetic div
 
 * **genetic monitoring  indicator:** number of species in which genetic diversity has been or is being monitored using DNA-based methods
 
-The logic behind the Ne 500 and PM  indicators is simple: (1) Small populations lose genetic diversity, and very small populations lose genetic diversity very quickly (Frankham 2021). (2) Loss of populations can result in loss of unique genetic adaptations.  So, measuring population size and loss of populations is a fairly good proxy or summary of genetic diversity status, without ever measuring the DNA diversity itself.  
+The logic behind the Ne 500 and PM  indicators is simple: (1) Small populations lose genetic diversity, and very small populations lose genetic diversity very quickly (Frankham 2021). (2) Loss of populations can result in loss of unique genetic adaptations.  So, measuring population size and loss of populations is a fairly good proxy or summary of genetic diversity status, without ever measuring the DNA diversity itself. Figure 1 shows an example of the genetic diversity indicators estimated for a species of tree.
+
+![](Fig1.png) 
 
 The indicators were developed in response to a recognized gap in reporting to the U.N. Convention on Biological Diversity (CBD). There was a need for tools to report  on ‘genetic erosion’ and ‘safeguarding’ or ‘maintaining’ genetic diversity, within and among populations of species. Thus, the genetic diversity indicators were developed using SMART (specific, measurable, achievable, realistic, and timely) criteria, and were designed to be relevant to Goal A (“The genetic diversity within populations of wild and domesticated species, is maintained, safeguarding their adaptive potential”) and Target 4 (…“to maintain and restore the genetic diversity within and between populations of native, wild and domesticated species to maintain their adaptive potential, including through in situ and ex situ conservation and sustainable management practices,”…) of the GBF. 
 In December 2022, the United Nations Convention of Biological Diversity (CBD) Kunming-Montreal Global Biodiversity Framework (GBF) was adopted by the 196 Parties. The Ne 500 and PM indicators were adopted in the GBF (Annex 1 of CBD/COP/DEC/15/5), which means that parties will be using these indicators to report on their progress over the next decade. 
+
+The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
  
 
 ### Get in touch and more help
