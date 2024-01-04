@@ -25,13 +25,9 @@ The following video offers a short explanation of the genetic diversity indicato
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- 
 
-### Get in touch and more help
 
-If you have a question that is not answered in the guidance documents available below, please post it on the [Genetic Indicators Google Group](https://groups.google.com/g/genetic-indicators-project), and a member will try to answer you as soon as posible.
-
-### How to cite
+### License
 
 This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE](LICENSE). 
 
