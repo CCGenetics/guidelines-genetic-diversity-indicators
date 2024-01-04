@@ -7,7 +7,9 @@ url: https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/
 aux_links:
   Docs Repository: https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/
 
-## Format for callouts
+## Format for callouts colors
+color_scheme: nil
+
 callouts_level: quiet
 callouts:
   highlight:
