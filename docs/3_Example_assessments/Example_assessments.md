@@ -8,7 +8,7 @@ has_children: true
 # Example assessments
 {: .no_toc }
 
-Text to be added here. Sections:
+Text to be added here. Child Sections that would appear in side menu:
 
 Ne 500
 PM 
