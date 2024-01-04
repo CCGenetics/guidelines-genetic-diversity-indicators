@@ -10,7 +10,6 @@ aux_links:
 ## Format for callouts colors
 color_scheme: nil
 
-callouts_level: quiet
 callouts:
   highlight:
     color: blue
