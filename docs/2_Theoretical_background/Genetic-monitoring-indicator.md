@@ -2,7 +2,7 @@
 layout: default
 title: Genetic monitoring indicator
 parent: Theoretical background
-nav_order: 3
+nav_order: 4
 ---
 
 # Genetic monitoring indicator

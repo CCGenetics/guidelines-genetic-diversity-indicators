@@ -8,7 +8,7 @@ has_children: true
 # Theoretical background
 {: .no_toc }
 
-This section has a brief theoretical background on the genetic diversity indicators.
+This section offers  a brief theoretical background on the rationale behind the genetic diversity indicators.
 
 
 
