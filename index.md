@@ -24,7 +24,7 @@ The three genetic indicators are:
 
 Thus, the genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based on these processes to monitor what affects genetic diversity.
 
-![](Overview_Fig_1.png)
+![](PMNe500_diagram.png)
 
 The Ne 500 indicator measures the proportion of populations within a species that are of sufficient size to maintain genetic diversity and adaptive potential within that species.  When a population is below a certain size threshold (i.e., Ne 500), genetic diversity loss starts to occur, and at population sizes much smaller than this threshold, genetic diversity loss can be very rapid (Frankham 2021). So we want to maintain or restore populations above this Ne 500 threshold.  The ideal state for this indicator is a value of 1, indicating that all populations are of sufficient size (that each population is above Ne 500). For many species, it is sufficient and appropriate to use census size (Nc: the number of living adults) as a proxy for Ne, with the threshold translating to Nc = 5000 mature individuals.
 
@@ -44,7 +44,13 @@ The following video offers a short explanation of the genetic diversity indicato
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### License
+
+## Current status in the Global Biodiversity Framework: 
+
+
+In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4 (see https://www.cbd.int/gbf/), which means Parties will be required to report on it in their national reporting.  The PM indicator is a complementary indicator to Goal A, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
+
+## License
 
 This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE](LICENSE). 
 
