@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Genetic diversity and indicators
-parent: Theoretical background
+parent: Background
 nav_order: 1
 ---
 

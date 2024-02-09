@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is a population
-parent: Theoretical background
+parent: Background
 nav_order: 5
 ---
 

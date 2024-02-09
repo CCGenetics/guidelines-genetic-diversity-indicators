@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Populations maintained indicator
-parent: Theoretical background
+parent: Background
 nav_order: 3
 ---
 
