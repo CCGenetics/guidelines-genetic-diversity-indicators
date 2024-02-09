@@ -6,6 +6,9 @@ nav_order: 1
 
 # Guideline materials and documentation for the Genetic Diversity Indicators
 
+{: .highlight }
+The information contained here is intended to assist nations in quantifying genetic indicator values at every stage of the process: from species selection to data compilation and finally to indicator calculation. These guideline materials are based on the co-creation experience of the first multinational assessment of the genetic diversity indicators, and we hope to keep updating them as more teams share their experience.
+
 Genetic diversity is the foundation of all biological diversity, yet despite this, genetic variation has been often neglected by many global conservation initiatives; in large part due to the lack of simple and widely-applicable genetic diversity indicators. 
 
 Following the U.N. Convention on Biological Diversity (CBD)’s Strategic Plan for Biodiversity 2011-2020, a critical gap in global biodiversity reporting was clear - knowledge on the status and trends of genetic diversity for most species. Starting in 2020, during the preparation of what would become the Kunming Montreal Global Biodiversity Framework three genetic diversity indicators were developed. These are the first indicators that can quantitatively estimate genetic status for all species, using existing data, in a rapid manner. 
