@@ -24,7 +24,7 @@ The three genetic indicators are:
 
 Thus, the genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based on these processes to monitor what affects genetic diversity.
 
-![](PMNe500_diagram.png)
+![](docs/PMNe500_diagram.png)
 
 The Ne 500 indicator measures the proportion of populations within a species that are of sufficient size to maintain genetic diversity and adaptive potential within that species.  When a population is below a certain size threshold (i.e., Ne 500), genetic diversity loss starts to occur, and at population sizes much smaller than this threshold, genetic diversity loss can be very rapid (Frankham 2021). So we want to maintain or restore populations above this Ne 500 threshold.  The ideal state for this indicator is a value of 1, indicating that all populations are of sufficient size (that each population is above Ne 500). For many species, it is sufficient and appropriate to use census size (Nc: the number of living adults) as a proxy for Ne, with the threshold translating to Nc = 5000 mature individuals.
 
