@@ -6,26 +6,43 @@ nav_order: 1
 
 # Guideline materials and documentation for the Genetic Diversity Indicators
 
-In 2020, Laikre, Hoban and colleagues outlined an approach to assess genetic diversity status and trends without requiring any genetic data (e.g. DNA sequence), using ‘genetic indicators’. These are:
+Genetic diversity is the foundation of all biological diversity, yet despite this, genetic variation has been often neglected by many global conservation initiatives; in large part due to the lack of simple and widely-applicable genetic diversity indicators. 
 
-* **Ne 500 indicator:** the proportion of populations within species with an effective population size (Ne) greater than 500. 
+Following the U.N. Convention on Biological Diversity (CBD)’s Strategic Plan for Biodiversity 2011-2020, a critical gap in global biodiversity reporting was clear - knowledge on the status and trends of genetic diversity for most species. Starting in 2020, during the preparation of what would become the Kunming Montreal Global Biodiversity Framework three genetic diversity indicators were developed. These are the first indicators that can quantitatively estimate genetic status for all species, using existing data, in a rapid manner. 
 
-* **PM indicator:** the proportion of maintained populations within species.
+The three new genetic diversity indicators were conceived using SMART (specific, measurable, achievable, realistic, and timely) criteria and can be quantified without using genetic data (e.g. without DNA sequences) - a key innovation enabling them to be applied across a wide range of taxa by countries with varying levels of resource capacities. 
 
-* **genetic monitoring  indicator:** number of species in which genetic diversity has been or is being monitored using DNA-based methods
 
-The logic behind the Ne 500 and PM  indicators is simple: (1) Small populations lose genetic diversity, and very small populations lose genetic diversity very quickly (Frankham 2021). (2) Loss of populations can result in loss of unique genetic adaptations.  So, measuring population size and loss of populations is a fairly good proxy or summary of genetic diversity status, without ever measuring the DNA diversity itself. Figure 1 shows an example of the genetic diversity indicators estimated for a species of tree.
+The three genetic indicators are:
 
-![](Fig1.png) 
+* **Effective population size (Ne) 500 indicator:** the proportion of populations within species with an effective population size (Ne) greater than 500. 
 
-The indicators were developed in response to a recognized gap in reporting to the U.N. Convention on Biological Diversity (CBD). There was a need for tools to report  on ‘genetic erosion’ and ‘safeguarding’ or ‘maintaining’ genetic diversity, within and among populations of species. Thus, the genetic diversity indicators were developed using SMART (specific, measurable, achievable, realistic, and timely) criteria, and were designed to be relevant to Goal A (“The genetic diversity within populations of wild and domesticated species, is maintained, safeguarding their adaptive potential”) and Target 4 (…“to maintain and restore the genetic diversity within and between populations of native, wild and domesticated species to maintain their adaptive potential, including through in situ and ex situ conservation and sustainable management practices,”…) of the GBF. 
-In December 2022, the United Nations Convention of Biological Diversity (CBD) Kunming-Montreal Global Biodiversity Framework (GBF) was adopted by the 196 Parties. The Ne 500 and PM indicators were adopted in the GBF (Annex 1 of CBD/COP/DEC/15/5), which means that parties will be using these indicators to report on their progress over the next decade. 
+* **Populations Maintained (PM) indicator:** the proportion of maintained populations within species.
+
+* **DNA-based monitoring  indicator:** number of species in which genetic diversity has been or is being monitored using DNA-based methods
+
+
+Thus, the genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based on these processes to monitor what affects genetic diversity.
+
+![](Overview_Fig_1.png)
+
+The Ne 500 indicator measures the proportion of populations within a species that are of sufficient size to maintain genetic diversity and adaptive potential within that species.  When a population is below a certain size threshold (i.e., Ne 500), genetic diversity loss starts to occur, and at population sizes much smaller than this threshold, genetic diversity loss can be very rapid (Frankham 2021). So we want to maintain or restore populations above this Ne 500 threshold.  The ideal state for this indicator is a value of 1, indicating that all populations are of sufficient size (that each population is above Ne 500). For many species, it is sufficient and appropriate to use census size (Nc: the number of living adults) as a proxy for Ne, with the threshold translating to Nc = 5000 mature individuals.
+
+The PM indicator measures the proportion of populations that still exist compared to the total number of populations that used to occur (i.e., it is a way of quantifying population extinctions). Each population is presumed to be genetically distinct and locally adapted, and hence loss of any population within a species equates to the loss of genetic diversity and a species’ unique genetic adaptations. Similar to the Ne 500 indicator, the ideal state for this indicator is a value of 1, indicating that no populations have been lost.
+
+The DNA-based monitoring indicator tracks the number of species being monitored temporally using DNA-based methods. Unlike the other two indicators, the genetic monitoring indicator does not estimate the genetic health of a species. Instead, it is a proxy for knowledge that could support management of genetic diversity. It is a simple count of genetic studies that can be used to track the genetic monitoring efforts being undertaken in a country to help inform adaptive species management and possibly conservation policy. 
+
+
+Over time, all of these indicators can be used to monitor progress in the overall genetic health of the biodiversity in a country, as well as species-specific recovery and general genetic management efforts. For a more in-depth look at the scientific underpinning of these indicators, see [Background](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Theoretical-background.html).
+
+
+The next Figure illustrates how these indicators can be calculated for a species of tree.
+
+![](Fig1.png)
 
 The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 ### License
 
