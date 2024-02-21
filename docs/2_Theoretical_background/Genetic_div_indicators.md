@@ -7,10 +7,13 @@ nav_order: 1
 
 # Genetic diversity and indicators
 
-Genetic diversity is variation at the DNA level, and includes differences among individuals within populations of species, as well as  and differences among populations of species. 
-The diversity among populations within a species is critical for ensuring the adaptive potential of that species. Therefore loss to any unique, genetically distinct population can greatly compromise a species’ ability to adapt to change (both anthropogenic or environmental). It is therefore imperative that all populations be maintained.
+Genetic diversity is variation at the DNA level, and includes differences among individuals *within populations of species*, as well as differences *among populations of species*. 
 
-The conservation of genetic diversity within populations depends on populations being sufficiently large, and the conservation of genetic diversity between populations depends on populations continuing to exist. Therefore, we can monitor genetic diversity not only using genetic data, but also monitoring the process that affects genetic diversity. The genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based in these processed to monitor what affects genetic diversity.
+**Within populations:** The diversity within populations within a species helps that population adapt quickly to changing conditions, avoid inbreeding problems, and persist when environmental disturbances happen.
+
+**Among populations:** The diversity among populations within a species is critical for ensuring the adaptive potential of that species, e.g. to a range of environmental conditions. Loss of any unique, genetically distinct population can compromise a species’ ability to adapt to change (both anthropogenic or environmental).
+
+It is therefore imperative that all populations be maintained, and that populations are sufficiently large to maintain genetic health. Based on these fundamental premises, we can assess and monitor genetic diversity not only using genetic data, but also by assessing loss of populations and population sizes relative to Ne 500 -monitoring the process that affects genetic diversity. The genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based in these processes.
 
 ![](PMNe500_diagram.png)
 
