@@ -17,5 +17,4 @@ It is therefore imperative that all populations be maintained, and that populati
 
 ![](PMNe500_diagram.png)
 
-Genetic diversity is necessary for species’ populations to remain healthy and adapt to environmental change, such as climate change, pollution, changing habitats, and pests and disease. Genetic diversity is also vital for resilience of all ecosystems, such as recovery from heat waves and ocean pollution or acidification. It is also vital for the success of ecosystem restoration and the reintroduction of populations and species. Populations with low genetic diversity suffer inbreeding, low viability, and low resilience. Unfortunately, genetic diversity has declined due to habitat loss, fragmentation, overharvest, and other human activities. 
-
+Although there are no global or standardized databases for reporting the number of species population and their census size, this information may be available for many species in various other sources (e.g., reports, national databases, scientific literature, government gazettes).  This guidance document will help you gather and use the necessary data, from diverse sources, in a standardized way (see Data Collection LINK).
