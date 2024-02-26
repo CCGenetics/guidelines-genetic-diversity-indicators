@@ -53,7 +53,7 @@ The following video offers a short explanation of the genetic diversity indicato
 
 In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4 (see https://www.cbd.int/gbf/), which means Parties will be required to report on it in their national reporting.  The PM indicator is a complementary indicator to Goal A, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
 
-![](Overview_Fig2.png)
+![](docs/Overview_Fig2.png)
 
 The Ne 500 indicator is directly relevant to **Goal A**, as it informs the health and resilience of species’ populations, their genetic diversity, and the threat of species extinction. Knowledge of species population’s effective size is relevant to **Target 4** as it facilitates active management of species, ex situ breeding programs and informs the conservation efforts and recovery process of species populations following environmental disruption. The Ne 500 indicator is a Headline indicator for Goal A and Target 4.
 
