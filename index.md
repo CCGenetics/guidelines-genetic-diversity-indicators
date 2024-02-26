@@ -7,9 +7,9 @@ nav_order: 1
 # Guideline materials and documentation for the Genetic Diversity Indicators
 
 {: .highlight }
-The information contained here is intended to assist nations in quantifying genetic indicator values at every stage of the process: from species selection to data compilation and finally to indicator calculation. These guideline materials are based on the co-creation experience of the first multinational assessment of the genetic diversity indicators, and we hope to keep updating them as more teams share their experience.
+This guide is intended to assist nations in quantifying genetic indicator values at every stage of the process: from species selection to data compilation to indicator calculation. These materials are based on the co-creation experience of the first multinational assessment of the genetic diversity indicators (LINK), and we hope to keep updating them as more teams share their experience.
 
-Genetic diversity is the foundation of all biological diversity, yet despite this, genetic variation has been often neglected by many global conservation initiatives; in large part due to the lack of simple and widely-applicable genetic diversity indicators. 
+Genetic diversity is the foundation of all biological diversity. It is necessary for species’ populations to remain healthy and adapt to environmental change, such as climate change, pollution, changing habitats, pests and disease. Genetic diversity is also vital for resilience of all ecosystems (i.e., recovery from heat waves and ocean pollution or acidification) and for the success of ecosystem restoration and the reintroduction of populations and species. Populations with low genetic diversity suffer inbreeding, low viability, and low resilience. Unfortunately, genetic diversity has declined due to habitat loss, fragmentation, overharvest, and other human activities. Yet despite all of this, genetic variation has been often neglected by many global conservation initiatives, partly due to the lack of simple and widely-applicable genetic diversity indicators. 
 
 Following the U.N. Convention on Biological Diversity (CBD)’s Strategic Plan for Biodiversity 2011-2020, a critical gap in global biodiversity reporting was clear - knowledge on the status and trends of genetic diversity for most species. Starting in 2020, during the preparation of what would become the Kunming Montreal Global Biodiversity Framework three genetic diversity indicators were developed. These are the first indicators that can quantitatively estimate genetic status for all species, using existing data, in a rapid manner. 
 
@@ -52,6 +52,17 @@ The following video offers a short explanation of the genetic diversity indicato
 
 
 In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4 (see https://www.cbd.int/gbf/), which means Parties will be required to report on it in their national reporting.  The PM indicator is a complementary indicator to Goal A, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
+
+![](Overview_Fig2.png)
+
+The Ne 500 indicator is directly relevant to **Goal A**, as it informs the health and resilience of species’ populations, their genetic diversity, and the threat of species extinction. Knowledge of species population’s effective size is relevant to **Target 4** as it facilitates active management of species, ex situ breeding programs and informs the conservation efforts and recovery process of species populations following environmental disruption. The Ne 500 indicator is a Headline indicator for Goal A and Target 4.
+
+The complementary indicator for Goal A, the “proportion of populations maintained”, is necessary for maintaining genetic diversity among populations. This indicator is directly relevant to addressing the “between populations” portion of **Target 4**, despite the GBF not making a direct link. Both the Ne 500 and PM indicators complement each other, and **experts agree that both are critical for assessing and monitoring the genetic health of species** (Hoban et al 2020, Hoban et al 2023b). Helpfully, quantifying the PM indicator (understanding the number of populations within a species - both extant and extinct) can be performed simultaneously to quantifying the Ne 500 indicator.
+
+As noted by [Hoban et al (2023a)](https://doi.org/10.1007/s10592-022-01492-0), the Ne 500 indicator is relevant to other targets such as sustainable harvest Targets 5 and 9 because harvested populations should be maintained at or above Ne 500. To ensure all genetically distinct populations are represented at sufficient sizes to maintain their persistence, it is relevant for Targets 1 and 3 on biodiversity inclusive spatial planning and representative protected areas, respectively, and Target 12 for increasing area and connectivity of green and blue spaces in urban environments to promote gene flow and species recovery. 
+
+The utility of these indicators is not confined to CBD reporting and Parties to its conventions. All countries are encouraged to start quantifying these indicators to better understand the genetic status of their biodiversity to better inform biodiversity management and track species recovery.
+
 
 ## License
 
