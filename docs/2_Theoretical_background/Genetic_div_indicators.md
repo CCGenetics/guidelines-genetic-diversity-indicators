@@ -17,8 +17,7 @@ It is therefore imperative that all populations be maintained, and that populati
 
 
 ![](PMNe500_diagram.png) 
+###### Fig 2.1
 
-{:.image-caption}
-*Fig 2.1*
 
 Although there are no global or standardized databases for reporting the number of species population and their census size, this information may be available for many species in various other sources (e.g., reports, national databases, scientific literature, government gazettes).  This guidance document will help you gather and use the necessary data, from diverse sources, in a standardized way (see Data Collection LINK).
