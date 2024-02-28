@@ -16,7 +16,8 @@ Genetic diversity is variation at the DNA level, and includes differences among 
 It is therefore imperative that all populations be maintained, and that populations are sufficiently large to maintain genetic health. Based on these fundamental premises, we can assess and monitor genetic diversity not only using genetic data, but also by assessing loss of populations and population sizes relative to Ne 500 -monitoring the process that affects genetic diversity. The genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based in these processes.
 
 {: .highlight } 
-![](PMNe500_diagram.png)
+![](PMNe500_diagram.png) 
+{: .highlight } 
 ###### Fig 2.1
 
 Although there are no global or standardized databases for reporting the number of species population and their census size, this information may be available for many species in various other sources (e.g., reports, national databases, scientific literature, government gazettes).  This guidance document will help you gather and use the necessary data, from diverse sources, in a standardized way (see Data Collection LINK).
