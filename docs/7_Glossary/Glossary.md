@@ -78,25 +78,25 @@ Area of Occurence (AOO) is the area within a species’ **Extent of Occurrence**
 ### Species range 
 
 - #### Wide-ranging (or widespread) species
-Wide-ranging species have an extent of occurrence (EOO) greater than 20 000 km2 or are present in more than one-third of a country's 20-km grid squares. 
+have an extent of occurrence (EOO) greater than 20 000 km2 or are present in more than one-third of a country's 20-km grid squares. 
 
 - #### Restricted range species
-Restricted range species are those that have an EOO <20 000 km2 or an area of occurrence (AOO) < 2 000 km2. A list of restricted species has been prepared using KBA criteria and can be found [here](https://www.keybiodiversityareas.org/working-with-kbas/proposing-updating/criteria-tools); however, this list should only be used as a guide as not all species have been assessed. 
+are those that have an EOO <20 000 km2 or an area of occurrence (AOO) < 2 000 km2. A list of restricted species has been prepared using KBA criteria and can be found [here](https://www.keybiodiversityareas.org/working-with-kbas/proposing-updating/criteria-tools); however, this list should only be used as a guide as not all species have been assessed. 
 
 - #### Rare species
-Rare species are those that occur in low densities, typically as single individuals or as very small subpopulations with fewer than 50 individuals. They may occur within a restricted range, but are typically scattered over a wide area.
+are those that occur in low densities, typically as single individuals or as very small subpopulations with fewer than 50 individuals. They may occur within a restricted range, but are typically scattered over a wide area.
 
 ### Fragmentation (of species habitat or distribution)
 Fragmentation reflects how connected or disconnected habitat areas of a species distribution are. As per IUCN definition, 
 
 - #### Severely fragmented
-Severely fragmented means that more than half of the species' total **Area of Occurrence** is in habitat patches that are (1) smaller than would be required to support a viable population, and (2) separated from other habitat patches by a large distance. 
+means that more than half of the species' total **Area of Occurrence** is in habitat patches that are (1) smaller than would be required to support a viable population, and (2) separated from other habitat patches by a large distance. 
 
 - #### Moderately fragmented
-Moderately fragmented refers to a species with less than half of its Area of Occurrence in habitat patches.
+refers to a species with less than half of its Area of Occurrence in habitat patches.
 
 - #### Continuous distribution
-In contrast, a continuous distribution has no appreciable breaks that would prevent organisms moving between areas of the species distribution. 
+in contrast, has no appreciable breaks that would prevent organisms moving between areas of the species distribution. 
 
 ### Realm 
 High-level category of the environment a species inhabits. Four geographic realms are recognized - marine, estuarine, freshwater, terrestrial - though some species may inhabit multiple realms. For example, many amphibians exist in the terrestrial and freshwater realms.
@@ -108,7 +108,7 @@ A list of general, major habitats that species occur in, globally. Within each r
 ## Species' biology 
 
 ### Population
-In general, a population is a genetically distinct group of individuals capable of interbreeding. However, this definition can vary depending on the species. See ‘What is a population’ under ‘Theoretical background’ for detailed discussion of what a population is and how to define a population for assessments of genetic diversity indicators.
+In general, a population is a genetically distinct group of individuals capable of interbreeding. However, this definition can vary depending on the species. See [‘What is a population’](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/2_Theoretical_background/What-is-a-population.md#what-is-a-population) for detailed discussion of what a population is and how to define a population for assessments of genetic diversity indicators.
 
 ### Closely related species
 Closely related species, for the purpose of calculating genetic indicators, are those species who share a more recent common ancestor, compared to other species. I.e. that have evolved from a more recent common ancestor. For example, species in the same genus or sub-genus. Such species will be more genetically similar to each other than other, less related species and may share life history similarities.
