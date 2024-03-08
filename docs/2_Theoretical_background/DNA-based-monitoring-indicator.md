@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genetic monitoring indicator
+title: DNA-based monitoring indicator
 parent: Background
 nav_order: 4
 ---
