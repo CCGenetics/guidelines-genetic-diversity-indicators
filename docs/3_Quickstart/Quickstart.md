@@ -9,7 +9,7 @@ has_children: false
 # Quickstart
 {: .no_toc }
 
-The following steps summarize the method to estimate the Ne 500 and PM genetic diversity indicators for a country assessment. Please refer to the Species list, How to guides, and Calculations and reporting sections of these guidelines for more detailed advice. 
+The following steps summarize the method to estimate the Ne 500 and PM genetic diversity indicators for a country assessment. Please refer to the [Species list](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/4_Species_list/Species_list.md#species-list), [How to guides](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/3_Howto_guides_examples/Howto_guides_examples.md#how-to-guides--examples), and [Calculations and reporting](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/6_Calculations_and_reporting/Calculations_and_reporting.md#calculations-and-reporting) sections of these guidelines for more detailed advice. 
 
 Notice that we have made available a Kobotoolbox form that you can use to gather data and metadata from steps 2-5, and a series of R scripts to perform the calculations from steps 5-8.
 
