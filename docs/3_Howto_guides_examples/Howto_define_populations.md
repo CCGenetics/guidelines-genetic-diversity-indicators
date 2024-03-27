@@ -39,11 +39,11 @@ Methods to define population can be combined. For instance, populations can be d
 
 ### Geographic boundaries
 
-![](Define_pop_Fig1) 
+![](Define_pop_Fig1.png) 
 
 ### Dispersal buffer
 
-![](Define_pop_Fig2)
+![](Define_pop_Fig2.png)
 
 ### Ecological or biogeographic proxies
 
