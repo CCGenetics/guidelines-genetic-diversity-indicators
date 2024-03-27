@@ -42,7 +42,7 @@ Over time, all of these indicators can be used to monitor progress in the overal
 
 The next Figure illustrates how these indicators can be calculated for a species of fish.
 
-![](New_Fish_Fig.png)
+![](docs/New_Fish_Fig.png)
 
 The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
 
