@@ -30,7 +30,7 @@ Thus, the genetic diversity indicators adopted at COP15 by the Global Biodiversi
 
 ![](docs/PMNe500_diagram.png)
 
-The Ne 500 indicator measures **the proportion of populations within a species that are of sufficient size to maintain genetic diversity and adaptive potential** within that species. When a population is below a certain size threshold (i.e., Ne 500), genetic diversity loss starts to occur, and at population sizes much smaller than this threshold, genetic diversity loss can be very rapid (Frankham 2021). So it is important to maintain or restore populations above this Ne 500 threshold. The ideal state for this indicator is a value of 1, indicating that all populations are of sufficient size (that each population is above Ne 500). For many species, it is sufficient and appropriate to use census size (Nc: the number of living adults) as a proxy for Ne, with the default threshold translating to Nc = 5000 mature individuals (though see Section XX regarding this transformation and other thresholds). **The Ne 500 indicator is likely the best evidence of genetic status and risk of genetic erosion when DNA sequencing is not available (the case for most species globally)**.
+The Ne 500 indicator measures **the proportion of populations within a species that are of sufficient size to maintain genetic diversity and adaptive potential** within that species. When a population is below a certain size threshold (i.e., Ne 500), genetic diversity loss starts to occur, and at population sizes much smaller than this threshold, genetic diversity loss can be very rapid (Frankham 2021). So it is important to maintain or restore populations above this Ne 500 threshold. The ideal state for this indicator is a value of 1, indicating that all populations are of sufficient size (that each population is above Ne 500). For many species, it is sufficient and appropriate to use census size (Nc: the number of living adults) as a proxy for Ne, with the default threshold translating to Nc = 5000 mature individuals (though see Section [How to estimate population sizes](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Populations_sizes.html#how-to-estimate-population-sizes). **The Ne 500 indicator is likely the best evidence of genetic status and risk of genetic erosion when DNA sequencing is not available (the case for most species globally)**.
 
 The PM indicator measures **the proportion of populations that still exist compared to the total number of populations that used to occur** (i.e., it is a way of quantifying population extinctions). Each population is presumed to be genetically distinct and locally adapted, and hence loss of any population within a species equates to the loss of genetic diversity and a species’ unique genetic adaptations. Similar to the Ne 500 indicator, the ideal state for this indicator is a value of 1, indicating that no populations have been lost.
 
@@ -43,6 +43,9 @@ Over time, all of these indicators can be used to monitor progress in the overal
 The next Figure illustrates how these indicators can be calculated for a species of fish.
 
 ![](docs/New_Fish_Fig.png)
+###### **Illustration** of genetic diversity indicators for hypothetical populations. Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
+
+
 
 The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
 
@@ -55,6 +58,7 @@ The following video offers a short explanation of the genetic diversity indicato
 In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4 (see https://www.cbd.int/gbf/), which means Parties will be required to report on it in their national reporting.  The PM indicator is a complementary indicator to Goal A, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
 
 ![](docs/Overview_Fig3.png)
+###### Components of Goal A and Target 4 of the Global Biodiversity Framework that specifically address genetic diversity.
 
 The Ne 500 indicator is directly relevant to **Goal A**, as it informs the health and resilience of species’ populations, their genetic diversity, and the threat of species extinction. Knowledge of species population’s effective size is relevant to **Target 4** as it facilitates active management of species, ex situ breeding programs and informs the conservation efforts and recovery process of species populations following environmental disruption. The Ne 500 indicator is a Headline indicator for Goal A and Target 4.
 
