@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to define populations
-parent: How to guides & examples
+parent: How to - guides 
 nav_order: 1
 ---
 
