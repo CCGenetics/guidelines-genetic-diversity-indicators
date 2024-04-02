@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extinct and extant populations
-parent: How to guides & examples
+parent: How to - guides 
 nav_order: 2
 ---
 
