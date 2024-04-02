@@ -45,7 +45,7 @@ The next Figure illustrates how these indicators can be calculated for a species
 ![](docs/New_Fish_Fig.png)
 ###### **Illustration** of genetic diversity indicators for hypothetical populations. Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
 
-
+.
 
 The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
 
@@ -59,6 +59,8 @@ In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Bio
 
 ![](docs/Overview_Fig3.png)
 ###### Components of Goal A and Target 4 of the Global Biodiversity Framework that specifically address genetic diversity.
+
+.
 
 The Ne 500 indicator is directly relevant to **Goal A**, as it informs the health and resilience of species’ populations, their genetic diversity, and the threat of species extinction. Knowledge of species population’s effective size is relevant to **Target 4** as it facilitates active management of species, ex situ breeding programs and informs the conservation efforts and recovery process of species populations following environmental disruption. The Ne 500 indicator is a Headline indicator for Goal A and Target 4.
 
