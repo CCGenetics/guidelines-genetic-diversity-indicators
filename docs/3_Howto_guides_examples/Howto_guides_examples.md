@@ -16,7 +16,7 @@ Extinct and extant populations
 
 How to estimate population sizes
 
-Example assessments
+
 
 
 
