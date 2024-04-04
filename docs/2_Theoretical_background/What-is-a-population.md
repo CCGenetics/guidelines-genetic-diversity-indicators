@@ -2,7 +2,7 @@
 layout: default
 title: What is a population (a first, simple answer) 
 parent: Background
-nav_order: 5
+nav_order: 6
 ---
 
 # What is a population (a first, simple answer)
