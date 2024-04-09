@@ -13,8 +13,7 @@ KoboToolBox ([https://www.kobotoolbox.org/](https://www.kobotoolbox.org/)) is a 
 
 **Show me the web-form!**
 
-You can see a **dummy example** of how the online form looks once it is deployed in Kobo here: [https://ee.kobotoolbox.org/preview/2KDHEWrb.](https://ee.kobotoolbox.org/preview/2KDHEWrb) **Notice that this form is just an example and it can NOT be used to collect real data.**
+You can see a **dummy example** of how the online form looks once it is deployed in Kobo below. **Notice that this form is just an example and it can NOT be used to collect real data.**
 
-**Kobo Manual**
+<iframe src=https://ee.kobotoolbox.org/i/qWUkdzj3 width="800" height="600"></iframe>
 
-Github version of the manual (we can start with a link to the pdf of the old manual in the meanwhile).
