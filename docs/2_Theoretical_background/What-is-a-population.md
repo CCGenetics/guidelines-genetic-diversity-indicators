@@ -20,3 +20,8 @@ In IUCN Red List reports the term ‘population’ and ‘subpopulation’ are u
 
 {: .Important }
 For example, there are two IUCN subpopulations that make up the IUCN population (entire species distribution) for Capensibufo rosei, a critically endangered toadlet endemic to Table Mountain National Park in Cape Town, South Africa. These subpopulations have been found to be genetically distinct, with no current gene flow possible between them likely owing to the distances between subpopulations exceeding the dispersal distances for the species (see Cressey et al. 2015; da Silva et al. 2016). We therefore define the two genetically distinct IUCN subpopulations as separate populations.
+
+
+
+[Previous: Genetic diversity - advantages](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-blue .mr-4 }
+[Next: Quickstart](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-green }
