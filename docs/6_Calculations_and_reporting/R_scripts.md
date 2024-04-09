@@ -144,7 +144,7 @@ table th:nth-of-type(5) {
 table th:nth-of-type(6) {
     width: 14%;
 }
-table th:nth-of-type(70) {
+table th:nth-of-type(7) {
     width: 14%;
 }
 </style>
