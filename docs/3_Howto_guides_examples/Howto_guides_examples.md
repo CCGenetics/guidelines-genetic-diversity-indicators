@@ -8,7 +8,7 @@ has_children: true
 # How to - guides 
 {: .no_toc }
 
-The following guides explain with examples how to perform the most common task when assessing the indicators.
+The following guides provide examples to help you understand how to perform the most common tasks involved in assessing the genetic diversity indicators.
 
 
 
