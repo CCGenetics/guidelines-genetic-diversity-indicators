@@ -6,6 +6,12 @@ has_children: false
 ---
 
 # Example assessments
+{: .no_toc }
+
+The following are real examples of assessments of the genetic diversity indicators in different species with different types of data available. 
+
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Example assessments in a nutshell
 
