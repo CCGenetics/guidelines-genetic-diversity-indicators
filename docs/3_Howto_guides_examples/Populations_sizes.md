@@ -105,15 +105,15 @@ Including this type of estimates allows local knowledge holders, like indigenous
 
 To facilitate participation and conversion of Nc to Ne, we suggest simplifying the possible ranges into the following categories:
 
-* < 5,000 by much
+*  < 5,000 by much
 
-* < 5,000 but not by much (tens or a few hundred less)
+*  < 5,000 but not by much (tens or a few hundred less)
 
-* > 5,000 but not by much (tens or a few hundred more)
+*  > 5,000 but not by much (tens or a few hundred more)
 
-* > 5,000 by much
+*  > 5,000 by much
 
-* estimate is a range including both less and greather than 5,000 (e.g. "3,000 to 10,000")
+*  estimate is a range including both less and greather than 5,000 (e.g. "3,000 to 10,000")
   
 Then, populations noted as having slightly more than 5000 individuals can be allocated a census size of 5500. This value is 10% above the minimum threshold value for populations at risk of extinction in the long-term (i.e. Ne 500; Nc 5000, assuming a 0.1 Ne/Nc ratio). Populations classified as being substantially larger than 5000 individuals can be assigned a value of 10,000 (double) the minimum threshold. For populations estimated at having a census size just under 5000, a value of 4,500 can be assigned, being 10% below the minimum threshold; and populations with considerably fewer than 5000 individuals can be given a value of 500, by similar logic indicating their increased risk of extinction in the short-term (corresponding to Ne = 50).
 
