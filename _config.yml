@@ -45,3 +45,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+# LaTeX rendering via "katex" (KaTeX, default) or "mathjax" (MathJax) or "none" / "off" (NO rendering)
+compress_html: blanklines: true
+latex: katex
+
