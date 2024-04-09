@@ -46,4 +46,5 @@ The next result shows the actual indicator values calculated for more than 900 s
 ##### *Figure. Example of aggregated indicator values*. Proportion of populations with Ne>500 for animals, plants and other taxonomic groups for more than 900 species in 9 countries. Made with data from [Mastretta-Yanes et al (2024)](https://ecoevorxiv.org/repository/view/6104/).
 
 
-
+[Previous: Equations and example calculations](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Equations.html#equations-and-example-calculations){: .btn .btn-blue .mr-4 }
+[Next: Measuring temporal change](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Temporal_change.html#measuring-temporal-change){: .btn .btn-green }
