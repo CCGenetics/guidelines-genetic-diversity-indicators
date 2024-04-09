@@ -86,7 +86,8 @@ Although the taxonomic information of the species is necessary to gather data an
 |  | National or regional Red List Category (any red listing different to the Global) | Categorical | NT | regional_redlist |
 
 \* Needed to perform summary analyses or aggregate results by desired categories.
-\^ The GBIF taxon id is useful because it links the taxonomic identification of the species to other information, and to track taxonomic changes. The common names of the species are useful for communication and community participation. 
+
+^ The GBIF taxon id is useful because it links the taxonomic identification of the species to other information, and to track taxonomic changes. The common names of the species are useful for communication and community participation. 
 
 {: .note }
 Other useful metadata include the realm (terrestrial, aquatic, marine), and ecosystem (e.g. rainforest), as well as threat status. These are not required, but they are useful to disaggregate the indicators.
