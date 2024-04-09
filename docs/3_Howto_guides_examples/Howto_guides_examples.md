@@ -8,14 +8,7 @@ has_children: true
 # How to - guides 
 {: .no_toc }
 
-Text to be added here. Child Sections that would appear in side menu:
-
-How to define populations
-
-Extinct and extant populations
-
-How to estimate population sizes
-
+The following guides explain with examples how to perform the most common task when assessing the indicators.
 
 
 
