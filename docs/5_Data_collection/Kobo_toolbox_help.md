@@ -39,3 +39,5 @@ The variables names in the exported data match the "name" column in the [kobo_fo
 
 See section [R scripts for calculation and reporting](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/R_scripts.html#r-scripts-for-calculation-and-reporting) for scripts to process the Kobotoolbox output data and calculate the genetic diversity indicators.
 
+[Previous: Web-tool for data collection](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Web_tool.html#web-tool-for-data-collection-kobo){: .btn .btn-blue .mr-4 }
+[Next: Recommended data and variables for calculating indicators](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Recommended_data.html#recommended-minimum-data-and-metadata-variables-for-calculating-genetic-diversity-indicators){: .btn .btn-green }
