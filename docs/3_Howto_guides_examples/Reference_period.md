@@ -11,3 +11,5 @@ Because data on the number of existing (extant) and extinct populations is neede
 
 Thus, the date range for which the indicators are available is dependent on data availability at the national scale.  Typically Nc for the Ne 500 indicator will be obtained from the past decade e.g. post 2010.  Going forward it will be reported every 2 to 5 years, typically every 4 years, making it suited to the CBD reporting schedule. As the indicator is increasingly deployed, indicator calculation can be made in temporal windows, including through the use of older biodiversity observation data, reports and consultation with knowledge holders, likely extending indicator assessment at least back to the 1990s.
 
+[Previous: How to define populations](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_define_populations.html#how-to-define-populations){: .btn .btn-blue .mr-4 }
+[Next: Extinct and extant populations](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Extinct_extant_populations.html#extinct-and-extant-populations){: .btn .btn-green }
