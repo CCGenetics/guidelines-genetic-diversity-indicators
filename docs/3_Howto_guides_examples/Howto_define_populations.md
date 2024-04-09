@@ -124,3 +124,6 @@ For **large mammals**, despite greater dispersal ability, many species show habi
 
 Defining populations for **marine species** can be challenging due to environmental barriers found in open or pelagic ocean environments, and due to migration to and from breeding areas. Barriers are often related to temperature, current or depth. Marine species range from very small to large and their dispersal likewise ranges from local to planktonic dispersal for many days on currents to traversing the length of a hemisphere. It is important to understand breeding/spawning areas and dispersal patterns/capabilities and environmental covariates to help determine genetically related populations. These distinctions may not be easily defined and some populations may have more or less continuous distributions.  In such cases, a “population” may be considered at approximately the level of a state, country, or biogeographic region (hundreds of kilometers across).
 
+
+[Previous: Species list](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/4_Species_list/Species_list.html#species-list){: .btn .btn-blue .mr-4 }
+[Next: How to establish a reference period](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Reference_period.html#how-to-establish-a-reference-period){: .btn .btn-green }
