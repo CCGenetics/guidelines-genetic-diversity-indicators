@@ -130,5 +130,6 @@ Or the following table extract from the Species Status Assessment Report for Bea
 
 ![](Pop_sizes_Fig5.png)
 
-
+[Previous: Extinct and extant populations](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Extinct_extant_populations.html#extinct-and-extant-populations){: .btn .btn-blue .mr-4 }
+[Next: How to get the Ne/Nc ratio](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Ne_Nc-ratio.html#how-to-get-the-nenc-ratio){: .btn .btn-green }
 
