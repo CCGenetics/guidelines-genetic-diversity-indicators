@@ -6,7 +6,7 @@ has_children: false
 ---
 
 
-# Quickstart
+# Quickstart guide to genetic indicators
 {: .no_toc }
 
 The following steps summarize the method to estimate the Ne 500 and PM genetic diversity indicators for a country assessment. Please refer to the Species list, How to guides, and Calculations and reporting sections of these guidelines for more detailed advice. 
@@ -37,7 +37,7 @@ For each focal species it is first necessary to define ‘populations’. Many l
 Once population boundaries have been defined, it is needed to count how many populations currently exist (extant populations). The next step is to, if possible, count the number of populations that have been lost (extinct populations). This data will be used to estimate the PM indicator. See section How to count extant and extinct populations? for details and notes on the reference period.
 
 {: .note } 
-Note: If it is not possible to calculate the number of extinct populations, it is still possible to proceed to the next step (the Ne 500 indicator). 
+Note: If it is not possible to calculate the number of extinct populations, **it is still possible to proceed** to the next step (the Ne 500 indicator). 
 
 ### Step 4. Compile data on census size (Nc) or effective population size (Ne)
 
