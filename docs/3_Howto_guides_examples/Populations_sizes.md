@@ -109,9 +109,9 @@ To facilitate participation and conversion of Nc to Ne, we suggest simplifying t
 
    < 5,000 but not by much (tens or a few hundred less)
 
-   > 5,000 but not by much (tens or a few hundred more)
+   \> 5,000 but not by much (tens or a few hundred more)
 
-   > 5,000 by much
+  \ > 5,000 by much
 
    estimate is a range including both less and greather than 5,000 (e.g. "3,000 to 10,000")
   
