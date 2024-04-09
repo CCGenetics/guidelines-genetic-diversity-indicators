@@ -35,3 +35,7 @@ For instance, in the example of hypothetical populations of fish (Figure. [Illus
 
 ![](../../docs/New_Fish_Fig.png)
 ##### **Illustration of genetic diversity indicators for hypothetical populations**. Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
+
+
+[Previous: Data collection](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_collection.html#data-collection){: .btn .btn-blue .mr-4 }
+[Next: Calculating country indicator values](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Country_ind_values.html#calculating-country-indicator-values){: .btn .btn-green }
