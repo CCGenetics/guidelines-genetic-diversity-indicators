@@ -7,7 +7,8 @@ You can browse the documentation at https://aliciamstt.github.io/guidelines-gene
 
 ## Licensing and Attribution
 
-This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE](LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme. 
+This repository is dual-licensed under CC BY 4.0. Attribution 4.0 Internationa for the media and all non-software materials and MIT License for the scripts and other provided code.
+ [LICENSE](LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme. 
 
 The documentation was developed by the genetic diversity indicator team. 
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: How to guides & examples
-nav_order: 4
+title: How to - guides 
+nav_order: 5
 has_children: true
 ---
 
-# How to guides & examples
+# How to - guides 
 {: .no_toc }
 
 Text to be added here. Child Sections that would appear in side menu:
@@ -16,7 +16,7 @@ Extinct and extant populations
 
 How to estimate population sizes
 
-Example assessments
+
 
 
 
