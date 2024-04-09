@@ -17,7 +17,7 @@ The amount of time and effort for collection of data will vary depending on the 
 
 (3) *expert*: Local communities or experts consultation.  For some species or regions, it will be most appropriate to consult people from local communities, staff from conservation initiatives (e.g. park rangers), or other stakeholders who know the species within their territories. The goal is to gather knowledge that is current but may not be published or written, but is known, including if possible with measures of uncertainty. Forming a panel or workshop of knowledge holders in a particular taxonomic group (e.g. amphibians, trees, etc.) also can be an efficient way to gather data on dozens of species in a short period of time. 
 
-[](Data_sources_Fig1.png)
+![](Data_sources_Fig1.png)
 ###### **Process to identify data from different sources** (manual, expert, automated) to assess genetic indicators for a set of species (adapted from Hoban et al. 2023).
 
 . 
