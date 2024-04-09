@@ -36,3 +36,5 @@ Below are some example data sources:
 
 If collecting data from a written source, each data source should be read thoroughly. Red List assessments and management plans might be 1 to 20 pages long (sometimes longer), and some reports on well studied species may exceed 100 pages. The text might clearly state the size of each population, with text, tables, or maps. However, data may be incomplete, such as listing the size of only the largest or smallest populations.  As noted above, it is ok to submit species for which some information is missing (see common Issues below). The time necessary to gather data from individual sources (and/or consult experts) may range from 45 minutes (for clear, short reports), to 5+ hours.
 
+[Previous: Example assessments](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/4b_Example_assessments/Example_assessments.html#example-assessments){: .btn .btn-blue .mr-4 }
+[Next: Web-tool for data collection](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Web_tool.html#web-tool-for-data-collection-kobo){: .btn .btn-green }
