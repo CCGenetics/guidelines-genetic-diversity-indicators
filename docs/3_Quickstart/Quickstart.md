@@ -72,3 +72,6 @@ Temporal change can be calculated using multiple time point values of the indica
 ### Step 10. Management based on the indicators
 
 The indicators are designed for use in practical biodiversity management – not just for reporting to the CBD.  For example, either indicator value at a single time point or over time can be used for: raising alarm in regions or taxonomic groups with low indicator values, prioritizing which species and populations are most in need of management to halt genetic erosion, designing management strategies and goals (e.g. reintroduction, population supplementation to increase Ne), tracking the consequences or effectiveness of management (e.g. if the indicator value improves), and communicating to the public about genetic diversity conservation. 
+
+[Previous: What is a population?](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/What-is-a-population.html#what-is-a-population-a-first-simple-answer){: .btn .btn-blue .mr-4 }
+[Next: Species list](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/4_Species_list/Species_list.html#species-list){: .btn .btn-green }
