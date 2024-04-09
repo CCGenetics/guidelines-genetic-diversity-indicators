@@ -16,6 +16,23 @@ Although the taxonomic information of the species is necessary to gather data an
 
 ### Table 1 - Variables strictly needed to perform the assessment and estimate genetic diversity indicators.
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 20%;
+}
+table th:nth-of-type(5) {
+    width: 20%;
+}
+</style>
 
 | Section | Variable description | Type | Example | Variable name in Kobotoolbox form or processing scripts |
 |---|---|---|---|---|
