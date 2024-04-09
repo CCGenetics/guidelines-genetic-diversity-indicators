@@ -266,3 +266,5 @@ Functions were developed and tested using:
 
 If you are getting a message with something like "**Error in `mutate()`** ... **Caused by error in `na_if()`:**" it is likely because you have a different version of dplyr or tidyr than above.
 
+[Previous: Measuring temporal change](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Temporal_change.html#measuring-temporal-change){: .btn .btn-blue .mr-4 }
+[Next: Glossary](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#glossary){: .btn .btn-green }
