@@ -120,3 +120,5 @@ are populations that went extinct in a location and have since been reintroduced
 - #### Reinforced populations
 populations are naturally occurring populations that have a native gene pool but have had new individuals introduced to support the population. Depending on the origin of the new individuals, e.g. from a breeding population or other population, the reinforced population may contain non-local genetic material. The genetic composition of such populations is therefore likely to be mostly the original gene pool of the location, though can have a combination of native gene pool and variation from other populations.
  
+[Previous: Calculations and reporting](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Calculations_and_reporting.html#calculations-and-reporting){: .btn .btn-blue .mr-4 }
+[Next: Reference and other resources](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/Video_resources/References_and-resources.html#references-and-other-resources){: .btn .btn-green }
