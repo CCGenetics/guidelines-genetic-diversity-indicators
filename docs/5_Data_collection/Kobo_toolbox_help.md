@@ -2,7 +2,7 @@
 layout: default
 title: KoboToolBox help
 parent: Data collection
-nav_order: 1
+nav_order: 3
 ---
 
 # KoboToolBox help
