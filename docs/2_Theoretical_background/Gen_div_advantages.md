@@ -33,3 +33,7 @@ The three genetic diversity indicators have the following important features (se
 
 Genetic diversity indicators have multiple practical uses beyond reporting. They can help countries understand and mitigate genetic diversity loss by guiding conservation action, improve allocation of resources, communicate to the public about genetic threats to flagship species, and may be useful in informing other legislation, including those directed toward national level species protection. Moreover, these genetic diversity indicators can highlight how local populations provide adaptation and resilience, which facilitates empowerment and leverage for local communities and indigenous peoples. 
 
+
+
+[Previous: DNA-based monitoring indicators](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/DNA-based-monitoring-indicator.html#dna-based-genetic-monitoring-indicator){: .btn .btn-blue .mr-4 }
+[Next: What is a population?](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/What-is-a-population.html#what-is-a-population-a-first-simple-answer){: .btn .btn-green }
