@@ -15,4 +15,4 @@ KoboToolBox ([https://www.kobotoolbox.org/](https://www.kobotoolbox.org/)) is a 
 
 You can see a **dummy example** of how the online form looks once it is deployed in Kobo below. **Notice that this form is just an example and it can NOT be used to collect real data.**
 
-<iframe width="800" height="600" src=https://ee.kobotoolbox.org/i/qWUkdzj3 ></iframe>
+<iframe width="800" height="600" src=https://ee.kobotoolbox.org/i/qWUkdzj3></iframe>
