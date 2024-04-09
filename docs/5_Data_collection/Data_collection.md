@@ -8,12 +8,7 @@ has_children: true
 # Data collection
 {: .no_toc }
 
-Text to be added here. Child Sections that would appear in side menu:
-
-Data sources
-Minimal data to be collected
-Kobotoolbox form
-Kobotoolbox help
+Data for calculating the indicators can be collected from different sources, which means that within each country there may be at least several options for the data needed. This flexibility is an advantage which helps make the indicators affordable and adaptable to local contexts, and allows countries to leverage their in-country knowledge. The minimal information is the **species scientific name**, the **number of extant and extinct populations**, and **either the census or effective population size of each population with data available.** 
 
 
 
