@@ -40,4 +40,5 @@ Some documents may delineate populations in a hierarchical fashion, for example,
 
 Another instance when more than one assessment could be done, is when experts or data sources have conflicting results, like a different number of populations. See for example the Monkey example in hard species, or if different studies report Ne based on different genetic markers or statistical methods.
 
-
+[Previous: How to estimate population sizes](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Populations_sizes.html#how-to-estimate-population-sizes){: .btn .btn-blue .mr-4 }
+[Next: Example assessments](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/4b_Example_assessments/Example_assessments.html#example-assessments){: .btn .btn-green }
