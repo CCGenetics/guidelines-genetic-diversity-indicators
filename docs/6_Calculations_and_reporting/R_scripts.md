@@ -127,25 +127,25 @@ Output selecting the most relevant columns:
 
 <style>
 table th:first-of-type {
-    width: 14%;
+    width: 7%;
 }
 table th:nth-of-type(2) {
-    width: 14%;
+    width: 16%;
 }
 table th:nth-of-type(3) {
-    width: 14%;
+    width: 15%;
 }
 table th:nth-of-type(4) {
-    width: 14%;
+    width: 15%;
 }
 table th:nth-of-type(5) {
-    width: 14%;
+    width: 15%;
 }
 table th:nth-of-type(6) {
-    width: 14%;
+    width: 15%;
 }
 table th:nth-of-type(7) {
-    width: 14%;
+    width: 15%;
 }
 </style>
 
