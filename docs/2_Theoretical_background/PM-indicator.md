@@ -11,7 +11,7 @@ In addition to the importance of within population genetic diversity, the divers
 
 
 ![](NewPMindicator_Fig1.png)
-###### *Genetic diversity between populations and the Proportion of Maintained Populations indicator*. Left: Colour patterns of strawberry poison frog (Oophaga pumilio) in Nicaraguan populations ([Galindo-Uribe et al., 2014](https://www.salamandra-journal.com/index.php/contents/2014-vol-50/380-galindo-uribe-d-j-sunyer-j-s-hauswaldt-a-amezquita-h-proehl-m-vences/file)). Right: each fish population is genetically distinct and exhibits different genetic diversity (represented by the different colors). A loss of a population can therefore compromise the species’ ability to adapt to future changes. PM indicator value: 3/4 = 0.75.
+###### **Genetic diversity between populations and the Proportion of Maintained Populations indicator**. Left: Colour patterns of strawberry poison frog (Oophaga pumilio) in Nicaraguan populations ([Galindo-Uribe et al., 2014](https://www.salamandra-journal.com/index.php/contents/2014-vol-50/380-galindo-uribe-d-j-sunyer-j-s-hauswaldt-a-amezquita-h-proehl-m-vences/file)). Right: each fish population is genetically distinct and exhibits different genetic diversity (represented by the different colors). A loss of a population can therefore compromise the species’ ability to adapt to future changes. PM indicator value: 3/4 = 0.75.
 
 .
 
