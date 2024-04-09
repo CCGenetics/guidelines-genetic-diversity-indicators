@@ -23,4 +23,5 @@ It is therefore imperative that all populations be maintained, and that populati
 
 Although there are no global, standardized databases for reporting the number of species’ population and their census sizes, this information is available for many species in various other sources (e.g., reports, national databases, scientific literature, government gazettes, consulting experts and knowledge holders, community science, etc.).  This guidance document will help you gather and use the necessary data, from diverse sources, in a standardized way (see [Data Collection](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_collection.html#data-collection)).
 
+[Previous: Overview](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/#guideline-materials-and-documentation-for-the-genetic-diversity-indicators){: .btn .btn-blue .mr-4 }
 [Next: Ne 500 indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Ne-500.html#ne-500-indicator){: .btn .btn-green }
