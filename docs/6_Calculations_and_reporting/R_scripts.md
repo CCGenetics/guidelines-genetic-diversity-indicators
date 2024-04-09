@@ -13,14 +13,12 @@ If collecting data using the Kobo form, the assessors do not have to do any dire
 
 While manual calculation is certainly possible (e.g., using Excel), we have created a series of R scripts to process the kobo output and estimate the indicators. These scripts account for variable inputs (e.g., point and range values for Nc) and will reduce data conversion errors. They are available at https://github.com/AliciaMstt/GeneticIndicators  and are explained below. 
 
-## 
-Functions to extract the data for each indicator from the Kobo form output:
+## Functions to extract the data for each indicator from the Kobo form output:
 
 The following R functions take as input a data frame with the data downloaded from the Kobo form and **extract and format the data** in order to estimate each of the Genetic Diversity Indicators.
 
 See examples of the input and output data frames in the "Estimating indicator…" sections below. And see the notebook [quality check](https://aliciamstt.github.io/GeneticIndicators/1_quality_check.html) and [cleaning for the multinational pilot assessment](https://aliciamstt.github.io/GeneticIndicators/2_cleaning.html), and [section 4](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) of this [repository](https://github.com/AliciaMstt/GeneticIndicators) for detailed examples of how these functions were used as part of a pipeline.
 
-Functions:
 
 Functions:
 
@@ -126,6 +124,31 @@ Arguments:
 Example: `indicator1<-estimate_indicator1(ind1_data = ind1_data)`
 
 Output selecting the most relevant columns:
+
+<style>
+table th:first-of-type {
+    width: 14%;
+}
+table th:nth-of-type(2) {
+    width: 14%;
+}
+table th:nth-of-type(3) {
+    width: 14%;
+}
+table th:nth-of-type(4) {
+    width: 14%;
+}
+table th:nth-of-type(5) {
+    width: 14%;
+}
+table th:nth-of-type(6) {
+    width: 14%;
+}
+table th:nth-of-type(70) {
+    width: 14%;
+}
+</style>
+
 
 |X\_uuid                               |taxon                   |country\_assessment | n\_pops| n\_pops\_Ne\_data| n\_pops\_more\_500| indicator1|
 |:------------------------------------|:-----------------------|:------------------|------:|--------------:|---------------:|----------:|
