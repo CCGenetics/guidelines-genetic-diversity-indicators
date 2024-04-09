@@ -149,7 +149,6 @@ table th:nth-of-type(7) {
 }
 </style>
 
-
 |X\_uuid                               |taxon                   |country\_assessment | n\_pops| n\_pops\_Ne\_data| n\_pops\_more\_500| indicator1|
 |:------------------------------------|:-----------------------|:------------------|------:|--------------:|---------------:|----------:|
 |010d85cd-51d6-4c20-86ee-ebdb21bef77b |Etheostoma chienense    |US                 |      2|              1|               1|          1|
