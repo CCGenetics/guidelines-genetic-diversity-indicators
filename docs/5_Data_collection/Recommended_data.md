@@ -108,3 +108,6 @@ table th:nth-of-type(5) {
 
 {: .note }
 Other useful metadata include the realm (terrestrial, aquatic, marine), and ecosystem (e.g. rainforest), as well as threat status. These are not required, but they are useful to disaggregate the indicators.
+
+[Previous: KoboToolBox help](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Kobo_toolbox_help.html#kobotoolbox-help){: .btn .btn-blue .mr-4 }
+[Next: Calculations and reporting](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Calculations_and_reporting.html#calculations-and-reporting){: .btn .btn-green }
