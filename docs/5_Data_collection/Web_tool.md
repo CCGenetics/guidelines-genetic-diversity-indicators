@@ -16,3 +16,6 @@ KoboToolBox ([https://www.kobotoolbox.org/](https://www.kobotoolbox.org/)) is a 
 You can see a **dummy example** of how the online form looks once it is deployed in Kobo below. **Notice that this form is just an example and it can NOT be used to collect real data.**
 
 <iframe width="800" height="600" src="https://ee.kobotoolbox.org/i/ecBveiwa"></iframe>
+
+[Previous: Data sources](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_sources.html#data-sources){: .btn .btn-blue .mr-4 }
+[Next: KoboToolBox help](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Kobo_toolbox_help.html#kobotoolbox-help){: .btn .btn-green }
