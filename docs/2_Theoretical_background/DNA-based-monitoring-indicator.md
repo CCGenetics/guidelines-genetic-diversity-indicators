@@ -11,7 +11,7 @@ Other processes that can affect genetic diversity, such as undesired gene flow w
 
 
 ![](DNAindicator_Fig1.png)
-###### *DNA-based monitoring* allows us to detect processes that affect genetic diversity and that are not captured by the PM and Ne 500 indicator. For instance, harvesting larger fish can lead to size selection, thus reducing the frequency of alleles related to larger body size (left). Another example is undesired admixture with other populations, closely related introduced species or genetically modified organisms (GMOs).
+###### **DNA-based monitoring** allows us to detect processes that affect genetic diversity and that are not captured by the PM and Ne 500 indicator. For instance, harvesting larger fish can lead to size selection, thus reducing the frequency of alleles related to larger body size (left). Another example is undesired admixture with other populations, closely related introduced species or genetically modified organisms (GMOs).
 
 .
 
