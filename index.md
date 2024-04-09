@@ -43,7 +43,7 @@ Over time, all of these indicators can be used to monitor progress in the overal
 The next Figure illustrates how these indicators can be calculated for a species of fish.
 
 ![](docs/New_Fish_Fig.png)
-###### **Illustration** of genetic diversity indicators for hypothetical populations. Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
+###### **Illustration of genetic diversity indicators for hypothetical populations.** Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
 
 .
 
