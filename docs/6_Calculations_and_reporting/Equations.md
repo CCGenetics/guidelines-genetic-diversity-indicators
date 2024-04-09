@@ -1,0 +1,19 @@
+---
+layout: default
+title: Equations and example calculations
+parent: Calculations and reporting
+nav_order: 1
+---
+
+# Equations and example calculations 
+
+Equation and definition of each indicator are in Table 1 and [Hoban et al (2023)](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.12953). For calculating the Ne>500 indicator for each species, count the number of populations with Ne above 500 and the number with Ne below 500; these two added together should equal the total number of populations **for which data are available**. In the case in which Nc was recorded, estimates of Ne can be obtained by multiplying the Nc value by the Ne/Nc ratio. 0.1 is a conservative default value for all species' Ne/Nc ratio. Instead, a taxon-specific Ne/Nc ratio (either from that species or from a general taxa such as 0.3 for plants) can be used when it is available. 
+
+The Ne>500 indicator can be reported as a proportion (from 0 to 1) of populations with data that are above 500, or in the form of a ratio ‘number of populations above 500’:‘total number of populations.’ Recently extinct populations would have a size of 0 to avoid an increase in the indicator value when populations are lost.
+
+In the case of differing estimates from multiple sources, either the most recent source is used, or a mean of values based on the different sources is taken.
+
+###### Table 1 Equations for calculating the indicator values for each species
+|                                                                                                                                 Ne > 500 Indicator                                                                                                                                |                                     Number of species being monitored using DNA-based methods                                     |                                                                                                                                                   Populations Maintained (PM) Indicator                                                                                                                                                   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Proportion of populations with an effective population size (Ne) greater than 500. <br><br>$\frac{N_{Ne500}}{N_{Ne500} + N_{Ne500}}$<br><br>Note: When Ne is unavailable, measures of Nc can be used to estimate Ne.<br>0.1 Ne/Nc conversion ratio is recommended if unknown. | A count of the number of species where at least one population is being genetically (temporally) monitored with DNA-based methods | Proportion of populations within a species that are maintained (i.e., extant populations) compared to the total number known (i.e., extant + extinct). N is the number of extant or extinct populations within a species.<br>NextantNextant+Nextinct<br>Note:  A See How to establish a reference period to estimate extinct populations, |
