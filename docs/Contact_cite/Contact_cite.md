@@ -21,5 +21,6 @@ If you use any of the materials of these guidelines, please cite:
 
 * Mastretta-Yanes\*, A., da Silva\*, J., Grueber, C. E., ... Laikre, L. & Hoban, S. (under review). **Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Monitoring framework**. *EcoEvoRxiv* (Pre-Print). https://ecoevorxiv.org/repository/view/6104/. DOI: [https://doi.org/10.32942/X2WK6T](https://doi.org/10.32942/X2WK6T)
 
+[Previous: References and other resources](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/Video_resources/References_and-resources.html#references-and-other-resources){: .btn .btn-blue }
 
 
