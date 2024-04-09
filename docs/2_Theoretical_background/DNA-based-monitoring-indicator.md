@@ -22,3 +22,7 @@ This indicator was not adopted by the GBF, but several countries have started to
 {: .important }
 The DNA-based monitoring indicator is measured at the species level, e.g. each species being monitored counts as one, even if only one of their population is being monitored.
 
+
+
+[Previous: PM indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/PM-indicator.html#populations-maintained-indicator){: .btn .btn-blue .mr-4 }
+[Next: Genetic diversity - advantages](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-green }

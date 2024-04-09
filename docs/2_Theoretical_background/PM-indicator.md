@@ -19,3 +19,8 @@ Maintenance of populations is necessary to provide species options for the futur
 
 Like the Ne 500 indicator, values for this indicator range from 0 to 1, with 0 indicating no populations exist (the species is extinct within the country) and 1 indicating that no populations have been lost. As an example, a species was previously known from 4 populations, but only 3 remain (1 has been lost due to extensive habitat transformation/loss). The PM indicator value for this species would be 3/4 = 0.75.
 
+
+
+
+[Previous: Ne 500 indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Ne-500.html#ne-500-indicator){: .btn .btn-blue .mr-4 }
+[Next: DNA-based monitoring indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/DNA-based-monitoring-indicator.html#dna-based-genetic-monitoring-indicator){: .btn .btn-green }
