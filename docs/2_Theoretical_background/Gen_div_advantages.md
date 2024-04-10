@@ -35,5 +35,5 @@ Genetic diversity indicators have multiple practical uses beyond reporting. They
 
 
 
-[Previous: DNA-based monitoring indicators](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/DNA-based-monitoring-indicator.html#dna-based-genetic-monitoring-indicator){: .btn .btn-blue .mr-4 }
-[Next: What is a population?](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/What-is-a-population.html#what-is-a-population-a-first-simple-answer){: .btn .btn-green }
+[Previous: DNA-based monitoring indicators](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/DNA-based-monitoring-indicator.html#dna-based-genetic-monitoring-indicator){: .btn .btn-blue .mr-4 }
+[Next: What is a population?](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/What-is-a-population.html#what-is-a-population-a-first-simple-answer){: .btn .btn-green }

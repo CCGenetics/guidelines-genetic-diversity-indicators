@@ -13,7 +13,7 @@ Not every occurrence, site or locality is a population; if there is significant 
 
 The word ‘subpopulation’ may describe clusters of organisms across a landscape (including family units) that are near enough to exchange gene flow. Usually several ‘subpopulations’ are considered together as a population (also called a ‘metapopulation’). When the potential for gene flow is large (e.g., viable tree pollen that can travel tens of kilometers), ‘populations’ can range across large distances, sometimes hundreds of km. 
 
-See section [How To Guides](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides) for advice on [How to define populations?](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_define_populations.html#how-to-define-populations) 
+See section [How To Guides](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides) for advice on [How to define populations?](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_define_populations.html#how-to-define-populations) 
 
 {: .important }
 In IUCN Red List reports the term ‘population’ and ‘subpopulation’ are used differently than intended in here. An ‘IUCN population’ refers to the entire species (i.e., the total number of individuals of the taxon). ‘IUCN subpopulations’ are geographically or otherwise distinct groups of the species between which there is little exchange (IUCN 1995);  thus an ‘IUCN subpopulation’  more closely resembles our definition of a ‘population’! 
@@ -23,5 +23,5 @@ For example, there are two IUCN subpopulations that make up the IUCN population 
 
 
 
-[Previous: Genetic diversity - advantages](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-blue .mr-4 }
-[Next: Quickstart](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-green }
+[Previous: Genetic diversity - advantages](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-blue .mr-4 }
+[Next: Quickstart](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-green }

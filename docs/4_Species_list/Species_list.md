@@ -63,5 +63,5 @@ It is important to fill in the Kobo form for every species on the 100+ species l
 ![](New_Species_list_Fig1.png)
 ###### **Conceptual illustration of the fact that each country will evaluate >100 species**, and that some proportion of species evaluated will have insufficient data for calculation of the indicators.  The proportion of X/(X+Y) may (possibly, but not necessarily) suggest some groups or countries that consistently have limited data for calculating indicators.
 
-[Previous: Quickstart](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-blue .mr-4 }
-[Next: How to - guides](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides){: .btn .btn-green }
+[Previous: Quickstart](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-blue .mr-4 }
+[Next: How to - guides](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides){: .btn .btn-green }

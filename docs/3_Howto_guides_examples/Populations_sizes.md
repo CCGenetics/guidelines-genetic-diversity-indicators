@@ -7,13 +7,13 @@ nav_order: 4
 
 # How to estimate population sizes
 
-Here we refer to Ne as contemporary effective population size, measuring genetic drift (see also [Glossary](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#glossary) for a more technical definition on Ne and [Background of the Ne 500 indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Ne-500.html#ne-500-indicator))
+Here we refer to Ne as contemporary effective population size, measuring genetic drift (see also [Glossary](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#glossary) for a more technical definition on Ne and [Background of the Ne 500 indicator](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Ne-500.html#ne-500-indicator))
 
 Shortly, the Ne of a population can be obtained in two ways:
 
 * **Statistical analysis of DNA sequence data**, when these are available. This will often involve a scientific study where Ne will be estimated and published as part of other genetic diversity summary statistics.
 
-* If genetic data is not available, a simple transformation of **census size** (**Nc;  the number of mature individuals) to an Ne using an Ne/Nc ratio is possible.**  An Ne/Nc conversion ratio of 0.1 is generally a conservative and suitable ratio to calculate Ne (although typical ratios may range from 0.1 to about 0.3 in many vertebrates and plants - this is a generalization). **By applying a 0.1 Ne/Nc ratio, Ne = 500 translates to a threshold of Nc = 5000** mature individuals.  Notice that for species with asexual reproduction (clones) the Nc should be interpreted with care (see below) and section: When the [Ne/Nc ratio](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#nenc-ratio) can’t be used.
+* If genetic data is not available, a simple transformation of **census size** (**Nc;  the number of mature individuals) to an Ne using an Ne/Nc ratio is possible.**  An Ne/Nc conversion ratio of 0.1 is generally a conservative and suitable ratio to calculate Ne (although typical ratios may range from 0.1 to about 0.3 in many vertebrates and plants - this is a generalization). **By applying a 0.1 Ne/Nc ratio, Ne = 500 translates to a threshold of Nc = 5000** mature individuals.  Notice that for species with asexual reproduction (clones) the Nc should be interpreted with care (see below) and section: When the [Ne/Nc ratio](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#nenc-ratio) can’t be used.
 
 ![](Pop_sizes_Fig1.png)
 ###### **The effective population size (Ne)** can be obtained by analyzing the genetic diversity of sample of the population, using statistical methods and DNA sequence data. If genetic data is not available, the Ne can be obtained from a simple transformation of the census size (Nc;  the number of mature individuals) through the use of  an Ne/Nc ratio.
@@ -130,6 +130,6 @@ Or the following table extract from the Species Status Assessment Report for Bea
 
 ![](Pop_sizes_Fig5.png)
 
-[Previous: Extinct and extant populations](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Extinct_extant_populations.html#extinct-and-extant-populations){: .btn .btn-blue .mr-4 }
-[Next: How to get the Ne/Nc ratio](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Ne_Nc-ratio.html#how-to-get-the-nenc-ratio){: .btn .btn-green }
+[Previous: Extinct and extant populations](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Extinct_extant_populations.html#extinct-and-extant-populations){: .btn .btn-blue .mr-4 }
+[Next: How to get the Ne/Nc ratio](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Ne_Nc-ratio.html#how-to-get-the-nenc-ratio){: .btn .btn-green }
 

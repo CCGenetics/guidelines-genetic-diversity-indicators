@@ -2,7 +2,7 @@
 
 This repository host the guideline materials and documentation for the assessment of species genetic diversity using genetic diversity indicators. 
 
-You can browse the documentation at https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/
+You can browse the documentation at https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/
 
 
 ## Licensing and Attribution

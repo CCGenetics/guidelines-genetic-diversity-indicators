@@ -24,5 +24,5 @@ The DNA-based monitoring indicator is measured at the species level, e.g. each s
 
 
 
-[Previous: PM indicator](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/PM-indicator.html#populations-maintained-indicator){: .btn .btn-blue .mr-4 }
-[Next: Genetic diversity - advantages](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-green }
+[Previous: PM indicator](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/PM-indicator.html#populations-maintained-indicator){: .btn .btn-blue .mr-4 }
+[Next: Genetic diversity - advantages](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Gen_div_advantages.html#genetic-diversity---advantages){: .btn .btn-green }

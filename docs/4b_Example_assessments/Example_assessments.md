@@ -96,5 +96,5 @@ A genetic study would be good to assess connectivity and genetic distinctness. M
 
 **How we dealt with it:** Habitat mapping could help define potential habitat boundaries and population boundaries better than with the observation data alone. We pruned observations to know sites in the northern part of the country, and considered the southern part to a great extent as a single metapopulation. 
 
-[Previous: How to - guides](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides){: .btn .btn-blue .mr-4 }
-[Next: Data collection](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_collection.html#data-collection){: .btn .btn-green }
+[Previous: How to - guides](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides){: .btn .btn-blue .mr-4 }
+[Next: Data collection](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_collection.html#data-collection){: .btn .btn-green }

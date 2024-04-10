@@ -29,5 +29,5 @@ For example, *Agave* plants can reproduce but sexually and asexually (clones). I
 
 
 
-[Previous: How to estimate population sizes](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Populations_sizes.html#how-to-estimate-population-sizes){: .btn .btn-blue .mr-4 }
-[Next: How to account for uncertainty](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/uncertainty.html){: .btn .btn-green }
+[Previous: How to estimate population sizes](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Populations_sizes.html#how-to-estimate-population-sizes){: .btn .btn-blue .mr-4 }
+[Next: How to account for uncertainty](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/uncertainty.html){: .btn .btn-green }
