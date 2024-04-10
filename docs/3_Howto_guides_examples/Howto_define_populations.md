@@ -5,6 +5,12 @@ parent: How to - guides
 nav_order: 1
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # How to define populations 
 
 A population is a group of individual organisms that can mate with each other  and have low or no connectivity with other populations (see What is a population? section ) . This definition aligns with the IUCN Red List Guidelines definition of a “subpopulation” - geographically or otherwise distinct groups between which there is little demographic or genetic exchange (typically less than one successful migrant individual or gamete per year) ([(IUCN 2001)](https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001.pdf)). 
@@ -109,20 +115,6 @@ A population may constitute a metapopulation consisting of numerous small locali
 
 Metapopulations should represent stable spatial and temporal units. Many species have ephemeral subpopulations in dynamic source-sink metapopulations- a sink is a spatial location receiving high immigration from adjacent areas and which would not persist on its own without immigration. Sinks are not distinct populations. The conglomerate of connected subpopulations that should be evaluated as a population.
 
-
-## Considerations when defining populations for some taxonomic groups
-
-For **freshwater species**, the riverscape structure can help define populations or units that can be assimilated to populations/metapopulations with a little GIS work with existing databases (which may have Nc data as well, such as useful databases [here](https://par.nsf.gov/servlets/purl/10298619) and [here](https://www.slu.se/en/departments/aquatic-resources1/databases/database-for-testfishing-in-streams/) for fish). Individuals inhabiting lakes can be considered as populations, especially for lakes that are disconnected from the hydrographical network. Riverscape (meta)populations can also be defined through their level of connection/disconnection e.g. it may be a good idea to consider as populations belonging to different river basins or hydrographical systems; or populations located in river stretches separated by huge dams or by abiotic or hydromorphological characteristics limiting species’ dispersal (e.g. changes in river slope, river substrates, water velocity, etc.)
-
-For **trees**, the pollination mode and commonness is important.  Trees which are wind-pollinated can have continuous populations extend over tens of kilometers, and farther.  Trees which are insect pollinated generally but not always, have less gene flow.  For uncommon species, distinct geographic clusters separated by several to tens of kilometers may be considered populations.  For common trees, a distinct population may not be easily apparent (e.g. trees that extend across much of a continent in a continuous fashion).  In such cases, a “population” may be considered at approximately the level of a state, country, or ecoregion (hundreds of kilometers across), meaning the ecological approachLINK noted above may be useful.
-
-For **amphibians**, dispersal capability may vary greatly between species. Some toads, for example, are known to be long distance dispersers and, provided they have access to resources, such as water bodies to breed, a single population (meta-population) may span 100s of kilometers. Salamanders on the other hand tend to have lower dispersal capabilities, with dispersal often less than 1.5 km. As such, wetlands within 1 km from each other are likely to constitute a metapopulation. Because amphibians must live in or around freshwater, their dispersal can be constrained when water sources are distant from each other or separated by barriers (e.g., mountain ranges or valleys, highways). 
-
-For **small mammals** habitat specialization and structure are determining factors. In some species, dispersal between suitable habitat patches in an otherwise unsuitable landscape can lead to large contiguous populations, despite restrictions on individual movements that may be limited to at most tens of kilometers. Some species display also strong sex-biased dispersal.
-
-For **large mammals**, despite greater dispersal ability, many species show habitat specialization.  Therefore populations can be connected to different degrees depending on barriers to dispersal. Some habitats are naturally or anthropogenically fragmented (e.g. dense forest separated by agriculture). Fences can also disrupt natural movement patterns. Some species solely exist in fenced areas; where good records exist, all remnants can together be considered a population.
-
-Defining populations for **marine species** can be challenging due to environmental barriers found in open or pelagic ocean environments, and due to migration to and from breeding areas. Barriers are often related to temperature, current or depth. Marine species range from very small to large and their dispersal likewise ranges from local to planktonic dispersal for many days on currents to traversing the length of a hemisphere. It is important to understand breeding/spawning areas and dispersal patterns/capabilities and environmental covariates to help determine genetically related populations. These distinctions may not be easily defined and some populations may have more or less continuous distributions.  In such cases, a “population” may be considered at approximately the level of a state, country, or biogeographic region (hundreds of kilometers across).
 
 
 [Previous: Species list](https://aliciamstt.github.io/guidelines-genetic-diversity-indicators/docs/4_Species_list/Species_list.html#species-list){: .btn .btn-blue .mr-4 }
