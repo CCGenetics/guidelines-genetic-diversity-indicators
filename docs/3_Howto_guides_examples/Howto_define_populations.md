@@ -54,7 +54,6 @@ This method focuses mostly on discrete populations separated by barriers that ca
 ###### **Example of geographic boundaries to define populations.** In the Mexican mountain juniper, populations can be defined as a mountain or group of mountains isolated by lowlands below 3,000 meters above sea level. Occurrence data can come from herbaria (purple dots) and citizen science (orange dots). Before assigning an occurrence point to a mountain, it is important to check the taxonomic and georeference data of each occurrence. For instance, the point marked with a white “!” lacks accurate geographic information, and thus could belong to any of the nearby mountains, instead of the location where it appears. 
 {: .no_toc }
 
-.
 
 ### Dispersal buffer
 
@@ -67,8 +66,8 @@ When seeds, pollen or spores can disperse the organism's genes, the longest disp
 
 ![](Define_pop_Fig2.png)
 ###### **Example of Dispersal Buffer.** For the *Hyla arborea* populations in Belgium, occurrence points were derived from citizen science data (waarnemingen.be), and polygons were generated based on the reported dispersal range (4 km). These polygons were evaluated by experts in the group, and those where physical barriers affected individual dispersal, as well as polygons derived from a single observation within the period analyzed, were excluded from further analysis.
+{: .no_toc }
 
-.
 
 ### Ecological or biogeographic proxies
 
@@ -76,8 +75,8 @@ Ecoregions or other biogeographic proxies for ecological or seed zones can be us
 
 ![](Define_pop_Fig3.png)
 ###### **Example for Ecological or Biogeographic proxies**. Whitebark pine (*Pinus albicaulis*) has an extensive range across western North America (bright green polygons) that spans multiple ecoregions (other colored and labeled polygons), which are defined by similarities in ecosystems, topography, geology, soils, and climate. For the indicators assessment for whitebark pine, ecoregion polygons were slightly modified to reflect whitebark pine biology (defined by experts) and political delineations (U.S. vs. Canadian jurisdiction).
+{: .no_toc }
 
-.
 
 ### Traits 
 
@@ -89,8 +88,8 @@ A genetic (DNA-based) study may be used to demonstrate either (a) no gene flow b
 
 ![](Define_pop_Fig4.png)
 ###### **Example for genetic differences/clades.** Populations of Brown bear (*Ursus arctos*) in Sweden were defined based on genetic clusters recovered in several studies. Both microsatellite and SNP data indicate three genetic clusters that correspond to previously identified areas of brown bear concentration. In the late 1800s the species was pushed back into four separate areas and declined to approximately 100 individuals due to intense hunting. Since being protected in 1927 they have expanded from these areas. 
+{: .no_toc }
 
-.
 
 ### Evolutionary significant units (ESUs)
 
@@ -98,8 +97,8 @@ An ESU is a genetic unit present within a species, defined as a “lineage demon
 
 ![](Define_pop_Fig5.png)
 ###### **Example of Evolutionary Significant Units to define populations**. In *Juniperus blancoi* populations were defined based on ESUs previously described from several lines of evidence. Genetic studies (Mastretta-Yanes et al 2012; Moreno-Letelier et al 2014) found strong population structure based on short DNA sequences. There are also 3 taxonomic varieties (*blancoi, mucronata* and *huehuentensis*) that do not match the former structure. Mastretta-Yanes et al (2012) delimited 5 conservation units (equivalent to ESUs) based on historical, genetic and ecological exchangeability. To define populations for the indicators, the CU of Mastretta-Yanes et al (2012) were used, but subdividing the isolated (> 150 km apart) geographic localities within them, due to genetic evidence of low gene flow. The newly discovered population of Cerro Gordo, Durango for which there is no genetic data was also considered as different population from the rest due to their geographic isolation. The newly discovered population Coscomate for which there is also no genetic data was grouped with El Salto due to its geographic proximity and similar habitat.
+{: .no_toc }
 
-.
  
 ### Management Units 
 
@@ -107,8 +106,8 @@ This category should be avoided if possible, as it may align sometimes more with
 
 ![](Define_pop_Fig6.png)
 ###### **Example for Management Units.** The Harbour porpoise (*Phocoena phocoena*) is a highly mobile marine mammal. However, genetic and morphological studies indicate that the individuals in the Baltic Sea are differentiated from individuals in the Belt Sea and North sea. Harbour porpoise is monitored and managed through international cooperation based on identified stocks and different areas of assessment. In Sweden, there is a national action plan for Harbour porpoise that identifies three management units within Swedish waters.  
+{: .no_toc }
 
-.
 
 ## Metapopulations and when locations change over time
 
