@@ -5,12 +5,6 @@ parent: How to - guides
 nav_order: 1
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 # How to define populations 
 
 A population is a group of individual organisms that can mate with each other  and have low or no connectivity with other populations (see What is a population? section ) . This definition aligns with the IUCN Red List Guidelines definition of a “subpopulation” - geographically or otherwise distinct groups between which there is little demographic or genetic exchange (typically less than one successful migrant individual or gamete per year) ([(IUCN 2001)](https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001.pdf)). 
