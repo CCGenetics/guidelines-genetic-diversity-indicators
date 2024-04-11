@@ -52,6 +52,7 @@ This method focuses mostly on discrete populations separated by barriers that ca
 
 ![](Define_pop_Fig1.png) 
 ###### **Example of geographic boundaries to define populations.** In the Mexican mountain juniper, populations can be defined as a mountain or group of mountains isolated by lowlands below 3,000 meters above sea level. Occurrence data can come from herbaria (purple dots) and citizen science (orange dots). Before assigning an occurrence point to a mountain, it is important to check the taxonomic and georeference data of each occurrence. For instance, the point marked with a white “!” lacks accurate geographic information, and thus could belong to any of the nearby mountains, instead of the location where it appears. 
+{: .no_toc }
 
 .
 
