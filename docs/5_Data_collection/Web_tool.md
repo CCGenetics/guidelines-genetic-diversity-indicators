@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web-tool for data collection (kobo)
+title: Web-tool for data collection (KoboToolBox)
 parent: Data collection
 nav_order: 2
 ---
@@ -13,7 +13,7 @@ KoboToolBox ([https://www.kobotoolbox.org/](https://www.kobotoolbox.org/)) is a 
 
 **Show me the web-form!**
 
-You can see a **dummy example** of how the online form looks once it is deployed in Kobo below. **Notice that this form is just an example and it can NOT be used to collect real data.**
+You can see a **dummy example** of how the online form looks once it is deployed in Kobo below. **Notice that this form is just an example and it can NOT be used to collect real data.** If you would like to use the form to deploy your own version and collect data, check [How to use Kobo to collect genetic diversity indicator data](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Kobo_toolbox_help.html)
 
 <iframe width="800" height="600" src="https://ee.kobotoolbox.org/i/ecBveiwa"></iframe>
 
