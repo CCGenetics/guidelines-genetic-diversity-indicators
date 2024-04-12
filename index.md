@@ -60,7 +60,6 @@ In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Bio
 ![](docs/Overview_Fig3.png)
 ###### Components of Goal A and Target 4 of the Global Biodiversity Framework that specifically address genetic diversity.
 
-.
 
 The Ne 500 indicator is directly relevant to **Goal A**, as it informs the health and resilience of species’ populations, their genetic diversity, and the threat of species extinction. Knowledge of species population’s effective size is relevant to **Target 4** as it facilitates active management of species, ex situ breeding programs and informs the conservation efforts and recovery process of species populations following environmental disruption. The Ne 500 indicator is a Headline indicator for Goal A and Target 4.
 
@@ -73,14 +72,18 @@ The utility of these indicators is not confined to CBD reporting and Parties to 
 
 ## License
 
-This repository is licensed under the The Creative Commons CC0 Public Domain [LICENSE](LICENSE). 
+This documentation is dual-licensed under CC BY 4.0. Attribution 4.0 Internationa for the media and all non-software materials and MIT License for the scripts and other provided code [LICENSE](https://raw.githubusercontent.com/CCGenetics/guidelines-genetic-diversity-indicators/main/LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme.  
 
 The documentation was developed by the genetic diversity indicator team. 
 
-If you use any of the materials listed below, please cite: 
+If you use any of the materials of these guidelines please cite:
 
-* Hoban, S., da Silva, J. M., Mastretta-Yanes, A., Grueber, C. E., Heuertz, M., Hunter, M. E., Mergeay, J., Paz-Vinas, I., Fukaya, K., Ishihama, F., Jordan, R., Köppä, V., Latorre-Cárdenas, M. C., MacDonald, A. J., Rincon-Parra, V., Sjögren-Gulve, P., Tani, N., Thurfjell, H., & Laikre, L. (2023). **Monitoring status and trends in genetic diversity for the Convention on Biological Diversity: An ongoing assessment of genetic indicators in nine countries**. *Conservation Letters*, 16(3), e12953. [https://doi.org/10.1111/conl.12953](https://doi.org/10.1111/conl.12953)
+* Mastretta-Yanes, A., Sofía Suárez, Rebecca Jordan, Sean Hoban, Jessica M. da Silva, Luis Castillo-Reina, Myriam Heuertz, Fumiko Ishihama, Viktoria Köppä, Linda Laikre, Joachim Mergeay, Ivan Paz-Vinas, Gernot Segelbacher, Alicia Knapps, Henry Rakoczy, Amelie Weiler & Brenna R. Forester. Guideline materials and documentation for the Genetic Diversity Indicators. https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/
 
-* Mastretta-Yanes\*, A., da Silva\*, J., Grueber, C. E., ... Laikre, L. & Hoban, S. (under review). **Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Monitoring framework**. *EcoEvoRxiv* (Pre-Print). https://ecoevorxiv.org/repository/view/6104/. DOI: [https://doi.org/10.32942/X2WK6T](https://doi.org/10.32942/X2WK6T)
+## Acknowledgments
+
+These materials are based on the co-creation experience of the [first multinational assessment of the genetic diversity indicators](ttps://ecoevorxiv.org/repository/view/6104/), and on interactions with practicioners, researchers and students of several institutions across the world. We are particularly greatful to the Ad Hoc Technical Expert Group on Indicators for the Kunming-Montreal Global Biodiversity Framework, and to the following people for providing feedback and ideas: Akio Takenaka, Alejandra Domínguez Álvarez, Alexander Llanes-Quevedo, Alice Hughes, Ana Wegier, Anna J. MacDonald, Ashley Hamilton, Atsaves Angelica, Austin Koontz, Bastian Silva, Belma Kalamujić Stroil, Caitlin Miller, Catherine E Grueber, Chris Funk, Emma Suzuki Spence, Erica Robertson, Eugenia Zarza, Fleur Visser, Gaëlle Brahy, Georgina Wood, Glenn M Shea, Henrik Thurfjell, Hesiquio Benitez, Iris Lang, Isa-Rita Russo, Juan Francisco Ornelas, Katie Millette, Keiichi Fukaya, Kira Cullmann, Libertad Arredondo-Amezcua, Lily Durkee, Lucía Ruíz, Luke Dedecke, Malte Julius Benedikt Lehmann, Malte Lehmann, Margaret E. Hunter, Maria Alejandra Rodriguez-Morales, María Camila Latorre, Marlien van der Merwe, Matt DeSaix, Meg Mahoney, Metztli Arcila Santiago, Mónica Alegre, Paulette Bloomer, Per Sjögren-Gulve, Philipp Ungar, Robyn E. Shaw, Santiago Ramírez-Barahona, Sheela Turbek, Simone Bagnato, Sofía Treviño, Tanya Latty, Taylor Stack & Victor Julio Rincon-Parra.
+
+ 
 
 [Next: Background](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/2_Theoretical_background/Theoretical-background.html#background){: .btn .btn-green }
