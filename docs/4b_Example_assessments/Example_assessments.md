@@ -8,7 +8,7 @@ has_children: false
 # Example assessments
 {: .no_toc }
 
-Here are some real-life examples of assessing the genetic diversity indicatros in different species, using different kinds of data.
+Here are some real-life examples of assessing the genetic diversity indicators in different species, using different kinds of data.
 
 ## Table of contents
 {: .no_toc .text-delta }
