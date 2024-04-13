@@ -9,9 +9,9 @@ has_children: false
 # Quickstart guide to genetic indicators
 {: .no_toc }
 
-Here we summarize the ten steps to estimate the Ne 500 and PM genetic diversity indicators. Please refer to the [Species list](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/4_Species_list/Species_list.md#species-list), [How to guides](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/3_Howto_guides_examples/Howto_guides_examples.md#how-to-guides--examples), and [Calculations and reporting](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/6_Calculations_and_reporting/Calculations_and_reporting.md#calculations-and-reporting) sections of these guidelines for more detailed advice. 
+Here we summarize the ten steps to estimate and use the Ne 500 and PM genetic diversity indicators. Please refer to the [Species list](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/4_Species_list/Species_list.md#species-list), [How to guides](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/3_Howto_guides_examples/Howto_guides_examples.md#how-to-guides--examples), and [Calculations and reporting](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/6_Calculations_and_reporting/Calculations_and_reporting.md#calculations-and-reporting) sections of these guidelines for more detailed advice. 
 
-Notice that we have made available a Kobotoolbox form that you can use to gather data and metadata from steps 2-5, and a series of R scripts to perform the calculations from steps 5-8.
+Notice that we have made available a [Kobotoolbox web-form that you can use to gather data and metadata](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Web_tool.html) from steps 2-5, and a series of [R scripts](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/R_scripts.html) to perform the calculations from steps 5-8.
 
 
 ## Table of contents
@@ -27,6 +27,8 @@ Notice that we have made available a Kobotoolbox form that you can use to gather
 At minimum, 100 species should be evaluated, though ideally many more will be used if capacity is available (e.g. up to 1000). The selection of species should be unbiased.  For example, selecting only charismatic species (butterflies, orchids, etc.), species of economic value or rare/ endangered species would result in an indicator that represents the genetic condition of species in that subset rather than all species. Thus the set of species should be as unbiased as possible; this can be achieved by random selection from a list of known, extant species. Analysis and reporting of the indicator may wish to disaggregate for particular subsets e.g. harvested species, pollinators, keystone species, but the overall indicator value should represent all species. See section [Species list](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/4_Species_list/Species_list.html#species-list) for advice on how to create a species list.
 
 ## Gather data
+
+Notice that we have made available a [Kobotoolbox web-form that you can use to gather data and metadata](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Web_tool.html).
 
 ### Step 2: Define population boundaries in geographic space
 
@@ -47,7 +49,6 @@ After defining populations, it is necessary to collect data on census population
 ### Step 5: For populations with Nc data, calculate Ne based on an Ne:Nc ratio (skip if you obtained Ne directly from a genetic study)
 
 To convert Nc to Ne it is important to choose a ratio of effective-to-census size and then multiplying the population’s census size by this ratio to obtain the population’s effective size. As mentioned in the [Ne 500 indicator background](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/2_Theoretical_background/Ne-500.md#ne-500-indicator) the default ratio, which is slightly conservative, is 1/10th or 0.1 (thus the minimum Nc would be 5000). Alternatively, a taxon-specific ratio can be obtained several ways. See How to estimate population sizes? in the How to guides. To incorporate uncertainty in calculations, the calculation can be repeated using multiple Ne/Nc ratios.  But it is acceptable and useful to use the well-recognized 0.1 ratio. See section [Calculations and reporting](https://github.com/AliciaMstt/guidelines-genetic-diversity-indicators/blob/main/docs/6_Calculations_and_reporting/Calculations_and_reporting.md#calculations-and-reporting) for details, [equations](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Equations.html#equations-and-example-calculations) and [R scripts](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/R_scripts.html#r-scripts-for-calculation-and-reporting) to help with the calculations.
-
 
 ## Use data to calculate indicators
 
