@@ -10,6 +10,7 @@ has_children: false
 
 Here are some real-life examples of assessing the genetic diversity indicators in different species, using different kinds of data.
 
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -17,6 +18,9 @@ Here are some real-life examples of assessing the genetic diversity indicators i
 {:toc}
 
 ## Example assessments in a nutshell
+
+The following examples describe common situations when assessing the indicators using both non-genetic and genetic data.
+
 
 ### Eurasian capercaillie (*Tetrao urogallus*), a widely distributed bird
 
@@ -44,6 +48,10 @@ Rose’s Mountain Toadlet is endemic to the Table Mountain National Park on the 
 
 
 ## Examples of what to do in “hard species”. 
+
+The following examples describe common situations when assessing the indicators becomes more complicated, and what can be done about it.
+
+If you are unsure how to proceed in a situation that is not described below, please post it on the [Genetic Indicators Google Group](https://groups.google.com/g/genetic-indicators-project), and a member will try to answer you as soon as posible.
 
 ### Taxonomic and geographic incongruences in biodiversity information systems
 
