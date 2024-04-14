@@ -5,7 +5,7 @@ parent: Background
 nav_order: 5
 ---
 
-# Genetic diversity - advantages
+# Genetic diversity indicators - advantages
 
 Although DNA-based studies are preferred to estimate genetic indicators, DNA studies require time and financial resources. A genetic study estimating Ne in five populations, for example, might take one to three years from planning to DNA analysis and cost 10 to 30K USD for supplies and 50-200K for personnel. Staff must also have technical training in molecular techniques, population genetics, and bioinformatics. Because of this, most countries still lack population genetic data for most species. 
 
