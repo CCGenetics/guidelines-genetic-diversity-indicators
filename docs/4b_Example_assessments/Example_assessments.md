@@ -78,31 +78,39 @@ If you are unsure how to proceed in a situation that is not described below, ple
 **Example species**: *Carex trinervis*. Belgium. 
 
 ![](Examples_Fig7.png)
+Map of locations with observations of *Carex trinervis* in Belgium (2012-2022) with a 500 m buffer around each observation. Inset shows the plant in its habitat (photo: Stijn Cooleman).  
+
 
 **Why it was hard**: This species has stoloniferous roots or underground stems. The number of “plants” does not correspond to the number of individual genotypes: counting plants would be like counting branches on a tree and consider these to be different individuals.
 Second, this species disperses in two ways: genetically through wind-dispersed pollen, and ecologically with heavy seeds that are just dropped, without any dispersal adaptations. It has a very long-lasting seed bank (>200 y longevity), so it’s hard to know the number of generations and calculate genetic drift (and thus Ne). 
 
-**How we dealt with it:** The way this species is currently monitored is through the surface area covered by the plant. This provides a baseline to calculate improvement or deterioration.We can say there are more or less three areas where the species is concentrated along the Belgian coast. These may or may not correspond to genetic populations. We cannot provide Nc or Ne estimates, and even if we had genetic data it would be hard to estimate Ne from them. 
+**How we dealt with it:** The way this species is currently monitored is through the surface area covered by the plant, and we monitor the change in cover. This provides a baseline to calculate improvement or deterioration.We can say there are more or less three areas where the species is concentrated along the Belgian coast. These may or may not correspond to genetic populations. We cannot provide Nc or Ne estimates, and even if we had genetic data it would be hard to estimate Ne from them. 
 
-A genetic study would be good to assess connectivity and genetic distinctness. Maybe other EBVs (than Ne) could provide good information for the genetic monitoring. 
+A genetic study would be good to assess connectivity and genetic distinctness, and get an idea of the average ramets/genets ratio. Maybe other EBVs (than Ne) could provide good information for the genetic monitoring.  
 
 ### Elusive species
 
 **Example species**: *Somatochlora arctica*. Belgium. A medium-sized dragonfly limited to hard to access acidic oligotrophic fens, and with adults foraging high in tree tops. 
 
+![](Examples_Fig8.png)
+Map of the observations of *Somatochlora arctica* in Belgium between 2012-2022, and dispersal buffer of 10 km surrounding each observation. The numbers represent the number of observations, with singletons represented in yellow. All populations are estimated to be smaller than 5000 individuals. photo: Joachim Mergeay
+
 **Why it was hard:**
 1. This species has a high dispersal capacity, so it’s definitely hard to define population boundaries. 
 2. The species is rare and occurs at low densities. Adults are very hard to find, as they don’t forage close to the water habitat they live in as larvae. They often forage high in the canopy of trees in the surrounding area. Males tend to stay closer to the water habitat, and defend a territory from time to time. It’s incredibly hard to catch them to ID them with certainty, and they go unnoticed a lot of the time. So detection is hard, let alone counting adults to estimate Nc. Larval exuviae are hard to find too, due to the low accessibility of the habitat.  
 
-**How we dealt with it:** We relied on expert judgment to guesstimate the Nc. It may well be that the population should be evaluated at the level of NW Europe, instead of at the country level. 
+**How we dealt with it:** We relied on expert judgment to estimate the Nc. None of the populations had estimated Nc>5000. Population genomic methods may be more suited to estimate population boundaries and Ne trends.  
 
 ### Singleton observations inflating populations number
 
 **Example species:** *Salamandra salamandra* (Belgium)
 
-**Why it was hard**: Citizen science data are not always reliable, and data should be curated prior to use. We have a lot of singleton observations in places where the species is certainly absent, thus overestimating the actual number of populations (or sites where the species occurs).  Also, the species is very widespread in the south, and the identification of the number of populations is very dependent on underlying assumptions of the dispersal distance: a small change in dispersal distance changes dramatically the number of populations. However, the species is also sensitive to habitat fragmentation by roads and urbanization. Hence evaluation of the likely number of populations would also require a landscape ecological approach. Also it hinges on the assumption that the species only occurs where there are observations, whereas it seems that there may be suitable habitat (deciduous forest with brooks and ponds) without observations because of an observation bias. 
+![](Examples_Fig9.png)
+Distribution of *Salamandra salamandra* observations in Belgium between 2012-2022, with a dispersal buffer of 2 km surrounding each datapoint. Those in pink represent observations where certainly no populations occur, and which would inflate the number of populations.Photo: Joachim Mergeay.
 
-**How we dealt with it:** Habitat mapping could help define potential habitat boundaries and population boundaries better than with the observation data alone. We pruned observations to know sites in the northern part of the country, and considered the southern part to a great extent as a single metapopulation. 
+**Why it was hard**: Citizen science data are not always reliable, and data should be curated prior to use. ingleton observations in places where the species is certainly absent, lead to overestimation of the actual number of populations (or sites where the species occurs).  Also, the species is very widespread in the south, and the identification of the number of populations is very dependent on underlying assumptions of the dispersal distance: a small change in dispersal distance changes dramatically the number of populations. However, the species is also sensitive to habitat fragmentation by roads and urbanization. Hence evaluation of the likely number of populations would also require a landscape ecological approach. Also it hinges on the assumption that the species only occurs where there are observations, whereas it seems that there may be suitable habitat (deciduous forest with brooks and ponds) without observations because of an observation bias in S-Belgium, where the observation effort is much smaller.  
+
+**How we dealt with it:** Habitat mapping could help define potential habitat boundaries and population boundaries better than with the observation data alone. We pruned observations to know sites in the northern part of the country, and considered the southern part to a great extent as a single metapopulation. Most northern populations are too small (Nc<5000), whereas the southern metapopulation is larger than 5000.  
 
 [Previous: How to - guides](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/Howto_guides_examples.html#how-to---guides){: .btn .btn-blue .mr-4 }
 [Next: Data collection](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/5_Data_collection/Data_collection.html#data-collection){: .btn .btn-green }
