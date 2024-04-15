@@ -56,7 +56,7 @@ The ability to fully include all of these areas will vary by country, due to nat
 
 We recommend evaluating a minimum of 100 species in order to ensure a sufficiently representative and diverse sample (e.g., across taxonomic groups, ecosystem types, threat status, commonness, etc.) is taken within each country.
 
-## Keep the same species list while collecting data 
+## Keep the same species list while collecting data over time
 
 It is important to fill in the Kobo form for every species on the 100+ species list, even if there is little data available, and even if the indicator cannot be calculated. In other words, we expect some proportion of the species list to have no useful data at the time of assessment (see Fig 2). Knowing how much data is missing will provide valuable insight into challenges countries face in assessing species and where data are lacking. Additionally, this information may encourage additional data collection over time to fill in gaps in biodiversity knowledge. However, if missing data is extensive (say, >50% of the species list), country teams may revisit their original species list and continue to add more species. 
 
