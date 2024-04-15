@@ -64,7 +64,7 @@ table th:nth-of-type(5) {
 |---|---|---|---|---|
 | **Assessment** |  |  |  |  |
 |  | Name of assessor | Character text | Alicia Mastretta-Yanes | name_assessor |
-|  | Whether the assessment of the species was done a single time (single_assessment) or more than once (multiassessment). See XXX section. | Categorical | single_assessment | multiassessment |
+|  | Whether the assessment of the species was done a single time (single_assessment) or more than once (multiassessment). See [How to account for uncertainty](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/uncertainty.html) section. | Categorical | single_assessment | multiassessment |
 | **Taxon** |  |  |  |  |
 |  | Taxonomic Authority and year for the species (or subspecies/variety) being assessed. | Character text | (Martinez, 1946) | scientific_authority |
 |  | Taxonomic Group according to a desired classification useful for summaries. *  | Categorical | mammal | taxonomic_group |
@@ -98,7 +98,7 @@ table th:nth-of-type(5) {
 |  | Realm or realms which the species inhabits | Categorical | Freshwater terrestrial | realm |
 |  | Habitat of the species according to the IUCN Habitat Classification Scheme. https://www.iucnredlist.org/resources/habitat-classification-scheme. Select all that apply. | Categorical | shrubland wetland | IUCN_habitat |
 |  | Whether the species is a national endemic | Categorical | Yes | national_endemic |
-|  | Whether the species range is wide-ranging  or restricted, based on criteria outlined in Section XXX.  | Categorical | wide_ranging | species_range |
+|  | Whether the species range is wide-ranging  or restricted, based on criteria outlined in [Glossary](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#species-range).  | Categorical | wide_ranging | species_range |
 |  | Global Red List Category (IUCN) | Categorical | LC | global_IUCN |
 |  | National or regional Red List Category (any red listing different to the Global) | Categorical | NT | regional_redlist |
 
