@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genetic diversity - advantages
+title: Genetic diversity indicators - advantages
 parent: Background
 nav_order: 5
 ---
