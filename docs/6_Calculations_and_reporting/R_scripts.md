@@ -17,7 +17,7 @@ While manual calculation is certainly possible (e.g., using Excel), we have crea
 
 The following R functions take as input a data frame with the data downloaded from the Kobo form and **extract and format the data** in order to estimate each of the Genetic Diversity Indicators.
 
-See examples of the input and output data frames in the "Estimating indicator…" sections below. And see the notebook [quality check](https://ccgenetics.github.io/GeneticIndicators/1_quality_check.html) and [cleaning for the multinational pilot assessment](https://ccgenetics.github.io/GeneticIndicators/2_cleaning.html), and [section 4](https://ccgenetics.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) of this [repository](https://github.com/AliciaMstt/GeneticIndicators) for detailed examples of how these functions were used as part of a pipeline.
+See examples of the input and output data frames in the "Estimating indicator…" sections below. And see the notebook [quality check](https://aliciamstt.github.io/GeneticIndicators/1_quality_check.html) and [cleaning for the multinational pilot assessment](https://ccgenetics.github.io/GeneticIndicators/2_cleaning.html), and [section 4](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) of this [repository](https://github.com/AliciaMstt/GeneticIndicators) for detailed examples of how these functions were used as part of a pipeline.
 
 
 Functions:
@@ -161,7 +161,7 @@ table th:nth-of-type(7) {
 |0586b61e-7805-42d7-84e1-dd8a6983c941 |Bombina variegata       |Belgium            |     12|             12|               0|          0|
 |065a53ba-051b-440c-a189-9a3c47d02571 |Caracal caracal         |South Africa       |      1|              1|               0|          0|
 
-See the notebook of the [analyses and figures for the multinational pilot assessment](https://ccgenetics.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://ccgenetics.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
+See the notebook of the [analyses and figures for the multinational pilot assessment](https://aliciamstt.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
 
 ### Estimate the PM indicator 
 
@@ -205,7 +205,7 @@ Output selecting the most relevant columns:
 |France             |Taxus baccata            |                    1|                   NA|         NA|
 |France             |Angelica heterocarpa     |                    4|                   NA|         NA|
 
-See the n[otebook of the analyses and figures for the multinational assessment](https://ccgenetics.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://ccgenetics.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
+See the [notebook of the analyses and figures for the multinational assessment](https://aliciamstt.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
 
 ### Estimate the genetic monitoring indicator
 
@@ -253,7 +253,7 @@ The output is the number of taxa with genetic monitoring per country (or per any
 |sweden             |                     20|
 |united\_states      |                      6|
 
-See the n[otebook of the analyses and figures for the multinational assessment](https://ccgenetics.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://ccgenetics.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
+See the [notebook of the analyses and figures for the multinational assessment](https://aliciamstt.github.io/GeneticIndicators/3_manuscript_figures_analyses.html#estimate-indicators) and [section 4 of this README](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) for detailed examples of how these functions were used as part of a pipeline.
 
 ### Dependencies
 
