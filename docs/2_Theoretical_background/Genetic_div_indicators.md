@@ -11,7 +11,7 @@ Genetic diversity is variation at the DNA level, and includes differences among 
 
 **Within populations:** The diversity within populations of a species helps a population adapt quickly to changing conditions, avoid inbreeding problems, and persist when environmental disturbances happen. Small populations lose genetic diversity quickly.
 
-**Among populations:** The diversity between populations of a species is critical for ensuring the adaptive potential of that species (e.g. to a range of environmental conditions). Loss of any unique, genetically distinct population can compromise a species’ ability to adapt to change (both anthropogenic or environmental).
+**Between populations:** The diversity between populations of a species is critical for ensuring the adaptive potential of that species (e.g. to a range of environmental conditions). Loss of any unique, genetically distinct population can compromise a species’ ability to adapt to change (both anthropogenic or environmental).
 
 It is therefore imperative that all populations be maintained, and that populations are sufficiently large to maintain genetic health. Based on these fundamental premises, we can assess and monitor genetic diversity not only using genetic data, but also by assessing loss of populations and population sizes relative to Ne 500 - in other words, by monitoring the process that affects genetic diversity. The genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based on these processes.
 
