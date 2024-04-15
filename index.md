@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Guideline materials and documentation for the Genetic Diversity Indicators
+# Guideline materials and documentation for the Genetic Diversity Indicators of the monitoring framework for the Kunming-Montreal Global Biodiversity Framework
 
 {: .highlight }
 This guide is intended to assist nations in quantifying genetic indicator values at every stage of the process: from species selection to data compilation to indicator calculation. These materials are based on the co-creation experience of the [first multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/), and we hope to keep updating them as more teams share their experience. If you would like to provide feedback or have questions please [get in touch](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/Contact_cite/Contact_cite.html).
@@ -45,17 +45,12 @@ The next Figure illustrates how these indicators can be calculated for a species
 ![](docs/New_Fish_Fig.png)
 ###### **Illustration of genetic diversity indicators for hypothetical populations.** Four hypothetical fish populations occur within a country. One fish = 1000 mature fishes. Colors show genetic diversity. In the year the indicators were assessed, 1 population is extinct (lost), and only one is large enough (Ne > 500) to retain genetic diversity.
 
-.
-
-The following video offers a short explanation of the genetic diversity indicators and the results of the first multinational assessment:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Current status in the Global Biodiversity Framework: 
 
 
-In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4 (see https://www.cbd.int/gbf/), which means Parties will be required to report on it in their national reporting.  The PM indicator is a complementary indicator to Goal A, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
+In December 2022, 196 Parties to the CBD adopted the Kunming-Montreal Global Biodiversity Framework (GBF) and with it came the adoption of the Ne 500 and PM indicators in the accompanying global monitoring framework (Annex 1 of CBD/COP/DEC/15/5). Specifically, **the Ne 500 indicator is a headline indicator for the GBF’s Goal A and Target 4** (see [https://www.cbd.int/gbf/]()), which means Parties will be required to report on it in their national reporting.  **The PM indicator is a complementary indicator to Goal A**, which means countries are encouraged but not obligated to report on it. We advise, as noted in the metadata for indicator A.4, that both indicators should be reported.
 
 ![](docs/Overview_Fig3.png)
 ###### Components of Goal A and Target 4 of the Global Biodiversity Framework that specifically address genetic diversity.
@@ -68,6 +63,11 @@ The complementary indicator for Goal A, the “proportion of populations maintai
 Genetic diversity is vital for meeting several targets (Hoban et al. 2023, 2020; Hoban, Campbell, et al. 2021; Bolam et al. 2023) such as **target 2** (effective restoration), **target 3** (30% area in effectively governed PAs and OECMs), **target 4** (management actions for recovering species and conserving genetic diversity), **target 6** (reducing invasive species), **target 8** (minimize climate impacts), **target 9** (sustainable use of wild species), **target 10** (sustainable fisheries, forestry, agriculture), **target 11** (restoring and sustaining ecosystem services), and **target 13** (equitable sharing of genetic resources).
 
 The utility of these indicators is not confined to CBD reporting and Parties to its conventions. All countries are encouraged to start quantifying these indicators to better understand the genetic status of their biodiversity to better inform biodiversity management and track species recovery.
+
+The following video offers a short explanation of the genetic diversity indicators and the results of the a [pilot multinational assessment](https://ecoevorxiv.org/repository/view/6104/):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIHRXB7Kn8?si=nSb3FFChKb-EtN7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ## License
@@ -82,7 +82,7 @@ Mastretta-Yanes, A., Sofía Suárez, Rebecca Jordan, Sean Hoban, Jessica M. da S
 
 ## Acknowledgments
 
-These materials are based on the co-creation experience of the [first multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/), and on interactions with practicioners, researchers and students of several institutions across the world. We are particularly greatful to the Swedish Environmental Protection Agency, the Ad Hoc Technical Expert Group on Indicators for the Kunming-Montreal Global Biodiversity Framework, and to the following people for providing feedback and ideas: Akio Takenaka, Alejandra Domínguez Álvarez, Alexander Llanes-Quevedo, Alice Hughes, Ana Wegier, Anna J. MacDonald, Ashley Hamilton, Atsaves Angelica, Austin Koontz, Bastian Silva, Belma Kalamujić Stroil, Caitlin Miller, Catherine E Grueber, Chris Funk, Emma Suzuki Spence, Erica Robertson, Eugenia Zarza, Fleur Visser, Gaëlle Brahy, Georgina Wood, Glenn M Shea, Henrik Thurfjell, Hesiquio Benitez, Irene Ramos, Iris Lang, Isa-Rita Russo, Juan Francisco Ornelas, Katie Millette, Keiichi Fukaya, Kira Cullmann, Libertad Arredondo-Amezcua, Lily Durkee, Lucía Ruíz, Luke Dedecke, Malte Julius Benedikt Lehmann, Malte Lehmann, Margaret E. Hunter, Maria Alejandra Rodriguez-Morales, María Camila Latorre, Marlien van der Merwe, Matt DeSaix, Meg Mahoney, Metztli Arcila Santiago, Mónica Alegre, Paulette Bloomer, Per Sjögren-Gulve, Philipp Ungar, Robyn E. Shaw, Santiago Ramírez-Barahona, Sheela Turbek, Simone Bagnato, Sofía Treviño, Tanya Latty, Taylor Stack & Victor Julio Rincon-Parra.
+These materials are based on the co-creation experience of the [first pilot multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/), and on interactions with practicioners, researchers and students of several institutions across the world. We are particularly greatful to the Swedish Environmental Protection Agency, the Ad Hoc Technical Expert Group on Indicators for the Kunming-Montreal Global Biodiversity Framework, and to the following people for providing feedback and ideas: Akio Takenaka, Alejandra Domínguez Álvarez, Alexander Llanes-Quevedo, Alice Hughes, Ana Wegier, Anna J. MacDonald, Ashley Hamilton, Atsaves Angelica, Austin Koontz, Bastian Silva, Belma Kalamujić Stroil, Caitlin Miller, Catherine E Grueber, Chris Funk, Emma Suzuki Spence, Erica Robertson, Eugenia Zarza, Fleur Visser, Gaëlle Brahy, Georgina Wood, Glenn M Shea, Henrik Thurfjell, Hesiquio Benitez, Irene Ramos, Iris Lang, Isa-Rita Russo, Juan Francisco Ornelas, Katie Millette, Keiichi Fukaya, Kira Cullmann, Libertad Arredondo-Amezcua, Lily Durkee, Lucía Ruíz, Luke Dedecke, Malte Julius Benedikt Lehmann, Malte Lehmann, Margaret E. Hunter, Maria Alejandra Rodriguez-Morales, María Camila Latorre, Marlien van der Merwe, Matt DeSaix, Meg Mahoney, Metztli Arcila Santiago, Mónica Alegre, Paulette Bloomer, Per Sjögren-Gulve, Philipp Ungar, Robyn E. Shaw, Santiago Ramírez-Barahona, Sheela Turbek, Simone Bagnato, Sofía Treviño, Tanya Latty, Taylor Stack & Victor Julio Rincon-Parra.
 
  
 
