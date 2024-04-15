@@ -117,12 +117,12 @@ To facilitate participation and conversion of Nc to Ne, we suggest simplifying t
   
 Then, populations noted as having slightly more than 5000 individuals can be allocated a census size of 5500. This value is 10% above the minimum threshold value for populations at risk of extinction in the long-term (i.e. Ne 500; Nc 5000, assuming a 0.1 Ne/Nc ratio). Populations classified as being substantially larger than 5000 individuals can be assigned a value of 10,000 (double) the minimum threshold. For populations estimated at having a census size just under 5000, a value of 4,500 can be assigned, being 10% below the minimum threshold; and populations with considerably fewer than 5000 individuals can be given a value of 500, by similar logic indicating their increased risk of extinction in the short-term (corresponding to Ne = 50).
 
-### How do I find studies reporting Ne? and Where and how is the Nc reported?
+### How do I find studies reporting Nc? and Where and how is the Nc reported?
 
 In animals, the Nc is often estimated by scientific studies or wildlife monitoring reporting an estimate from a model such as a capture-mark-recapture model. In plants, estimates are more often done by counting actual individuals as part of specific-species monitoring or vegetation surveys, or as an estimate made by counting within given units of area and extrapolating. 
 To search, you can use a scientific literature search engine with the species name +  “census population size”, “Nc” or “abundance”. You can also add “capture-mark-recapture” or other methods to your search for animal species. Mainly look into the Abstract or Results sections of literature (especially in Tables) to find if study reports Nc. For plants, you can also search on forestry reports and databases, besides the previous terms, you can also search for “density”, as often density in a given area is reported, and it can be extrapolated if the area where the species inhabits is known. 
 
-Studies reporting NC will usually have the Nc values  in a table or in the results section. For example, the following text extract from Becker et al. (2017):
+Studies reporting Nc will usually have the Nc values in a table or in the results section. For example, the following text extract from Becker et al. (2017):
 
 ![](Pop_sizes_Fig4.png)
 
