@@ -20,8 +20,8 @@ With these tools, we aim to relieve some of the burden associated with choosing 
 If you want to use this form to collect data for your country or desired species, **you can deploy your own version of the form** in Kobotoolbox as follows:
 
 1. Create your own account of kobo in Kobotoolbox
-2. Download the file [kobo_form.xlsx](https://github.com/AliciaMstt/GeneticIndicators/raw/main/kobo_form.xlsx) from this repository, which is the .xlsx version of the Kobo form (ie. the questions in the format kobo can read them).
-3. Import it to Kobotoolbox following [these instructions](https://support.kobotoolbox.org/new_form.html).
+2. Download the file [kobo_form.xlsx](./kobo_form.xlsx) from this repository, which is the .xlsx version of the Kobo form (ie. the questions in the format Kobo can read them).
+3. Import it to KoboToolBox following [these instructions](https://support.kobotoolbox.org/new_form.html).
    
 Check [Kobotoolbox documentation](https://support.kobotoolbox.org/welcome.html) for further details on how to deploy and use it. You can also use our scripts (see below) to process the output in order to estimate the indicators.
 
