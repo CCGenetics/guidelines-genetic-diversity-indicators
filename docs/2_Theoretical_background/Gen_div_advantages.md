@@ -11,7 +11,7 @@ Although DNA-based studies are preferred to estimate genetic indicators, DNA stu
 
 In contrast, data for the Ne 500 and Populations Maintained indicators **can be rapidly gathered using existing resources and data** (e.g., reports, scientific and citizen science databases, and expert and local knowledge). And the person quantifying the indicators **does not need molecular training**, but some help or collaboration from a geneticist would be useful. DNA based **data are not needed** (although useful if available). Indeed, the genetic indicators were designed to enable the tracking and reporting of genetic information at large scales by all countries, recognizing that in many species DNA has not been analyzed to support conserving genetic diversity for most species.
 
-The three genetic diversity indicators have the following important features (see [Hoban et al 2023a](https://doi.org/10.1007/s10592-022-01492-0), and [Hoban et al 2023c](https://doi.org/10.32942/X2QK5W)):
+The three genetic diversity indicators have the following important features (see [Hoban et al 2023a](https://doi.org/10.1007/s10592-022-01492-0), and [Hoban et al 2024](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biae006/7625302?login=false)):
 
 * are **scientifically valid**, based in core conservation and genetic concepts
 

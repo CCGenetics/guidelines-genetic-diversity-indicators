@@ -18,14 +18,14 @@ Shortly, the Ne of a population can be obtained in two ways:
 ![](Pop_sizes_Fig1.png)
 ###### **The effective population size (Ne)** can be obtained by analyzing the genetic diversity of sample of the population, using statistical methods and DNA sequence data. If genetic data is not available, the Ne can be obtained from a simple transformation of the census size (Nc;  the number of mature individuals) through the use of  an Ne/Nc ratio.
 
-.
+
 
 The following decision tree illustrates a workflow for obtaining Ne depending on the  data that is available:
 
 ![](Pop_sizes_Fig2.png)
 ###### Decision tree to obtain the Ne of a given population, depending on data availability.
 
-.
+
 
 Depending on the species and the population, Ne from genetic studies or Nc data may be available, or both. While in some cases the Ne estimated from genetic data would be the more accurate (with some exceptions, such as in very large populations of trees and fish, where genetic Ne estimates are not valid), if the Nc data is also available, it is recommended to record both and compare the results obtained, or to perform the assessment using both values to account for uncertainty. 
 
@@ -113,7 +113,7 @@ To facilitate participation and conversion of Nc to Ne, we suggest simplifying t
 
 * \> 5,000 by much
 
-* estimate is a range including both less and greather than 5,000 (e.g. "3,000 to 10,000")
+* estimate is a range including both less and greater than 5,000 (e.g. "3,000 to 10,000")
   
 Then, populations noted as having slightly more than 5000 individuals can be allocated a census size of 5500. This value is 10% above the minimum threshold value for populations at risk of extinction in the long-term (i.e. Ne 500; Nc 5000, assuming a 0.1 Ne/Nc ratio). Populations classified as being substantially larger than 5000 individuals can be assigned a value of 10,000 (double) the minimum threshold. For populations estimated at having a census size just under 5000, a value of 4,500 can be assigned, being 10% below the minimum threshold; and populations with considerably fewer than 5000 individuals can be given a value of 500, by similar logic indicating their increased risk of extinction in the short-term (corresponding to Ne = 50).
 

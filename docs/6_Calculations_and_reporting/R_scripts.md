@@ -17,7 +17,7 @@ While manual calculation is certainly possible (e.g., using Excel), we have crea
 
 The following R functions take as input a data frame with the data downloaded from the Kobo form and **extract and format the data** in order to estimate each of the Genetic Diversity Indicators.
 
-See examples of the input and output data frames in the "Estimating indicator…" sections below. And see the notebook [quality check](https://aliciamstt.github.io/GeneticIndicators/1_quality_check.html) and [cleaning for the multinational pilot assessment](https://ccgenetics.github.io/GeneticIndicators/2_cleaning.html), and [section 4](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) of this [repository](https://github.com/AliciaMstt/GeneticIndicators) for detailed examples of how these functions were used as part of a pipeline.
+See examples of the input and output data frames in the "Estimating indicator…" sections below. And see the notebook [quality check](https://aliciamstt.github.io/GeneticIndicators/1_quality_check.html) and [cleaning for the multinational pilot assessment](https://aliciamstt.github.io/GeneticIndicators/2_cleaning.html), and [section 4](https://aliciamstt.github.io/GeneticIndicators/#4-pipeline-used-in-the-multinational-assessment) of this [repository](https://github.com/AliciaMstt/GeneticIndicators) for detailed examples of how these functions were used as part of a pipeline.
 
 
 Functions:

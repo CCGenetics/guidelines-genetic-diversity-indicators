@@ -47,7 +47,7 @@ Rose’s Mountain Toadlet is endemic to the Table Mountain National Park on the 
 ![](Examples_Fig4.png)
 
 
-## Examples of what to do in “hard species”. 
+## Examples of what to do in “difficult to assess species”. 
 
 The following examples describe common situations when assessing the indicators becomes more complicated, and what can be done about it.
 
@@ -55,7 +55,7 @@ If you are unsure how to proceed in a situation that is not described below, ple
 
 ### Taxonomic and geographic incongruences in biodiversity information systems
 
-**Example species:** *Castilleja tolucensis*. Mexico. A plant endemic to the top of the highest elevation mountains of central Mexico (https://enciclovida.mx/especies/153674-castilleja-tolucensis)
+**Example species:** *Castilleja tolucensis*. Mexico. A plant endemic to the top of the highest elevation mountains of central Mexico [https://enciclovida.mx/especies/153674-castilleja-tolucensis](https://enciclovida.mx/especies/153674-castilleja-tolucensis)
 
 **Why it was hard:** National biodiversity information systems and GBIF show occurrence points where the species is not known to occur. This can happen due to: (a) taxonomic misidentifications, or because part of the distribution of a former taxon was subdivided in different species and old records were not updated or (b) geographical misplacements, due to coordinates typos or wrong interpretation of localities of records without coordinates. This can result in overestimating the number of populations, or give the false impression that some populations were lost because they have not been seen in the locality in a long time.
 
@@ -65,7 +65,7 @@ If you are unsure how to proceed in a situation that is not described below, ple
 
 ### Expert disagreement on the number of populations or Nc
 
-**Example species:** *Alouatta palliata mexicana* and *Alouatta pigra*. Howling monkeys species from continuous tropical rainforest (https://enciclovida.mx/especies/34494-alouatta-palliata;  https://enciclovida.mx/especies/34575-alouatta-pigra)
+**Example species:** *Alouatta palliata mexicana* and *Alouatta pigra*. Howling monkeys species from continuous tropical rainforest ([https://enciclovida.mx/especies/34494-alouatta-palliata](https://enciclovida.mx/especies/153674-castilleja-tolucensis);  [https://enciclovida.mx/especies/34575-alouatta-pigra](https://enciclovida.mx/especies/153674-castilleja-tolucensis))
 
 ![](Examples_Fig6.png)
 

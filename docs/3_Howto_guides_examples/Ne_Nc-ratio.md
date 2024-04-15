@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to get the Ne/Nc ratio and when NOT to use it
+title: How to get the Ne/Nc ratio and when the ration CAN'T be used
 parent: How to - guides
 nav_order: 5
 ---
@@ -15,7 +15,7 @@ A taxon-specific ratio can be obtained in one of several ways:
 
 These are all valid ways of obtaining the ratio. 
 
-## When the Ne/Nc CAN’T be used
+## When the Ne/Nc ratio CAN’T be used
 
 There will be cases when the standard Ne/Nc approximation should not be used:
 
@@ -25,7 +25,7 @@ There will be cases when the standard Ne/Nc approximation should not be used:
 
 * Additional examples could be ex-situ populations with often large changes of historic populations and a mixture of origin.
 
-For example, *Agave* plants can reproduce but sexually and asexually (clones). In the wild, mature adult individuals are easily distinguishable from their clones, which grow below the original plant. However, as several species of Agave are used to produce mezcal (traditional Mexican alcoholic beverage) it is common for farmers to increase the population using clones, either in plantations or in managed natural ecosystems. As a result, the Nc increases, but the Ne does not. Therefore, the Ne:Nc ratio can not be applied when this form of management exists. 
+For example, *Agave* plants can reproduce both sexually and asexually (clones). In the wild, mature adult individuals are easily distinguishable from their clones, which grow below the original plant. However, as several species of Agave are used to produce mezcal (traditional Mexican alcoholic beverage) it is common for farmers to increase the population using clones, either in plantations or in managed natural ecosystems. As a result, the Nc increases, but the Ne does not. Therefore, the Ne:Nc ratio can not be applied when this form of management exists. 
 
 
 
