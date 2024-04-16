@@ -6,9 +6,11 @@ nav_order: 1
 
 # Guideline materials and documentation for the Genetic Diversity Indicators of the monitoring framework for the Kunming-Montreal Global Biodiversity Framework
 
+
 {: .highlight }
 This guide is intended to assist national and subnational entities in quantifying genetic indicator values at every stage of the process: from species selection to data compilation to indicator calculation. These materials are based on the co-creation experience of the [first pilot multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/) and we hope to keep updating them as more teams share their experience. If you would like to provide feedback or have questions please [get in touch](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/Contact_cite/Contact_cite.html).
 
+[![DOI](https://zenodo.org/badge/738548568.svg)](https://zenodo.org/doi/10.5281/zenodo.10976424)
 
 Genetic diversity is the foundation of all biological diversity. It is **necessary for species’ populations to remain healthy and adapt to environmental change**, such as climate change, pollution, changing habitats, pests and disease. Genetic diversity is **also vital for resilience of all ecosystems** (i.e., recovery from heat waves and ocean pollution or acidification) and for the success of ecosystem restoration and the reintroduction of populations and species. Populations with low genetic diversity suffer inbreeding, low viability, and low resilience. Unfortunately, genetic diversity has declined due to habitat loss, fragmentation, overharvest, and other human activities. Yet despite all of this, genetic variation has been often neglected by many global conservation initiatives, partly due to the lack of simple and widely-applicable genetic diversity indicators. 
 
@@ -77,7 +79,7 @@ This documentation is dual-licensed under CC BY 4.0. Attribution 4.0 Internation
 
 If you use any of the materials of these guidelines **please cite**:
 
-Mastretta-Yanes, A., Sofía Suárez, Rebecca Jordan, Sean Hoban, Jessica M. da Silva, Luis Castillo-Reina, Myriam Heuertz, Fumiko Ishihama, Viktoria Köppä, Linda Laikre, Joachim Mergeay, Ivan Paz-Vinas, Gernot Segelbacher, Alicia Knapps, Henry Rakoczy, Amelie Weiler & Brenna R. Forester. Guideline materials and documentation for the Genetic Diversity Indicators of the monitoring framework for the Kunming-Montreal Global Biodiversity Framework. https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/
+Mastretta-Yanes, A., Sofía Suárez, Rebecca Jordan, Sean Hoban, Jessica M. da Silva, Luis Castillo-Reina, Myriam Heuertz, Fumiko Ishihama, Viktoria Köppä, Linda Laikre, Joachim Mergeay, Ivan Paz-Vinas, Gernot Segelbacher, Alicia Knapps, Henry Rakoczy, Amelie Weiler & Brenna R. Forester. Guideline materials and documentation for the Genetic Diversity Indicators of the monitoring framework for the Kunming-Montreal Global Biodiversity Framework. https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/. [https://zenodo.org/doi/10.5281/zenodo.10976424](https://zenodo.org/doi/10.5281/zenodo.10976424)
 
 ## Acknowledgments
 
