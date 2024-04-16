@@ -4,6 +4,7 @@ This repository host the guideline materials and documentation for the assessmen
 
 You can browse the documentation at https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/
 
+[![DOI](https://zenodo.org/badge/738548568.svg)](https://zenodo.org/doi/10.5281/zenodo.10976424) 
 
 ## Licensing and Attribution
 
