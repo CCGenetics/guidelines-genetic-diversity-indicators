@@ -35,15 +35,15 @@ There are some species where it will be particularly hard or impossible to quant
 
 Candidate lists should be **representative** (e.g., able to provide a typical picture of what other species are experiencing for the indicators). This may include species of commercial interest, but should not be limited to commercially important species. If possible, the species should represent a diversity of at least some of: 
 
-*Ecosystems / biomes within the country (e.g. temperate forests, rainforest, etc)
+* Ecosystems / biomes within the country (e.g. temperate forests, rainforest, etc)
 
-*Taxonomic groups (e.g. mammals, invertebrates, herpetofauna, plants, birds, fish)
+* Taxonomic groups (e.g. mammals, invertebrates, herpetofauna, plants, birds, fish)
 
-*Terrestrial and aquatic realms
+* Terrestrial and aquatic realms
 
-*Range size and commonness (see Kobo form for descriptions of terms)
+* Range size and commonness (wide-randing, restricted, etc)
 
-*Threatened status (threatened or not)
+* Threatened status (threatened or not)
 
 If possible, also include a range of:
 
