@@ -63,6 +63,7 @@ We recommend evaluating a minimum of 100 species in order to ensure a sufficient
 It is important to fill in the Kobo form for every species on the 100+ species list, even if there is little data available, and even if the indicator cannot be calculated. In other words, we expect some proportion of the species list to have no useful data at the time of assessment (see Fig 2). Knowing how much data is missing will provide valuable insight into challenges countries face in assessing species and where data are lacking. Additionally, this information may encourage additional data collection over time to fill in gaps in biodiversity knowledge. However, if missing data is extensive (say, >50% of the species list), country teams may revisit their original species list and continue to add more species. 
 
 ![](New_Species_list_Fig1.png)
+{: .no_toc }
 ###### **Conceptual illustration of the fact that each country will evaluate >100 species**, and that some proportion of species evaluated will have insufficient data for calculation of the indicators.  The proportion of X/(X+Y) may (possibly, but not necessarily) suggest some groups or countries that consistently have limited data for calculating indicators.
 
 [Previous: Quickstart](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Quickstart/Quickstart.html#quickstart-guide-to-genetic-indicators){: .btn .btn-blue .mr-4 }
