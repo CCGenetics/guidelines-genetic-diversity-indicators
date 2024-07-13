@@ -8,7 +8,7 @@ nav_order: 1
 
 
 {: .highlight }
-This guide is intended to assist national and subnational entities in quantifying genetic indicator values at every stage of the process: from species selection to data compilation to indicator calculation. These materials are based on the co-creation experience of the [first pilot multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/) and we hope to keep updating them as more teams share their experience. If you would like to provide feedback or have questions please [get in touch](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/Contact_cite/Contact_cite.html).
+This guide is intended to assist national and subnational entities in quantifying genetic indicator values at every stage of the process: from species selection to data compilation to indicator calculation. These materials are based on the co-creation experience of the [first pilot multinational assessment of the genetic diversity indicators](https://ecoevorxiv.org/repository/view/6104/) and we hope to keep updating them as more teams share their experience. If you would like to provide feedback or have questions please [get in touch](https://groups.google.com/g/genetic-indicators-project).
 
 [![DOI](https://zenodo.org/badge/738548568.svg)](https://zenodo.org/doi/10.5281/zenodo.10976424)
 
