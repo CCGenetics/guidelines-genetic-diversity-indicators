@@ -50,7 +50,7 @@ To make sure that the study reports the **contemporary Ne** and not the “histo
 
 * Demographic approaches to estimating contemporary Ne (e.g., [Nunney and Elam, 1994](https://doi.org/10.1046/j.1523-1739.1994.08010175.x)) (Note this does not require genetic data)
 
-Another strategy, used in a recent meta-analysis by [Clarke et al. (2023, preprint)](https://www.biorxiv.org/content/10.1101/2023.09.22.558974v1.abstract) is looking at articles that cited the original papers of the aforementioned Ne estimation software packages to check if any of these articles are related to species within the country of interest. 
+Another strategy, used in a recent meta-analysis by [Clarke et al. 2024](https://onlinelibrary.wiley.com/doi/10.1111/mec.17353) is looking at articles that cited the original papers of the aforementioned Ne estimation software packages to check if any of these articles are related to species within the country of interest. 
 
 Other methods and programs may arise, you can double check in the documentation of that program if it is used to estimate the contemporary Ne. 
 
@@ -58,7 +58,7 @@ Other methods and programs may arise, you can double check in the documentation 
 If a program or method focuses on estimating the historical Ne it is **not** useful for the context of the genetic diversity indicators. For instance, if historic effective population size is estimated using a pairwise Markovian coalescent (PSMC) approach, or using the software program GONE, unfortunately, it cannot be used for the Ne indicator, even if recent Ne estimates from this method are reported.
 
 ### Where and how is the Ne reported in a scientific paper?
-Papers reporting Ne will usually have the Ne values  in a table or in the results section. For example the following extract from Tallmon et al.’s (2004) study on Ne from brown bear in Sweden: 
+Papers reporting Ne will usually have the Ne values  in a table or in the results section. For example, see the following excerpt from [Tallmon et al. 2004](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.2193/0022-541X(2004)068[0960:GMOSBB]2.0.CO;2) study on Ne from brown bear in Sweden: 
 
 ![](Pop_sizes_Fig3.png)
 
