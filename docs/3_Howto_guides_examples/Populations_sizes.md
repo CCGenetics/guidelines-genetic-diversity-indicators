@@ -55,7 +55,7 @@ Another strategy, used in a recent meta-analysis by [Clarke et al. (2023, prepri
 Other methods and programs may arise, you can double check in the documentation of that program if it is used to estimate the contemporary Ne. 
 
 {: .warning }
-If the program or method focuses on estimating the historical Ne it is **not** useful for the context of the genetic diversity indicators. For instance, if you're wondering about the effectiveness of the historic effective population size analyzed by pairwise Markovian coalescent (PSMC), unfortunately, it cannot be used for the Ne indicator, even if recent Ne estimates from this method are reported.
+If a program or method focuses on estimating the historical Ne it is **not** useful for the context of the genetic diversity indicators. For instance, if historic effective population size is estimated using a pairwise Markovian coalescent (PSMC) approach, or using the software program GONE, unfortunately, it cannot be used for the Ne indicator, even if recent Ne estimates from this method are reported.
 
 ### Where and how is the Ne reported in a scientific paper?
 Papers reporting Ne will usually have the Ne values  in a table or in the results section. For example the following extract from Tallmon et al.’s (2004) study on Ne from brown bear in Sweden: 
