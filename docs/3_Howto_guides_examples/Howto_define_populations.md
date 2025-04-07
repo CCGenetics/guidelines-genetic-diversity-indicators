@@ -103,11 +103,19 @@ This category should be avoided if possible, as it may align sometimes more with
 {: .no_toc }
 
 
-## Metapopulations and when locations change over time
+## Metapopulations
 
-A population may constitute a metapopulation consisting of numerous small localities (ponds, prairies, etc.) that are separate but not very far (hundreds of meters to several kilometers, depending on the species dispersal capacity), thus capable of exchanging at least 1 migrant (one reproductive adult moving between patches) on average per generation per year. In such cases, the population size should be considered the sum of the individual locations (termed subpopulations), which may cover tens or hundreds of kilometers.  
+A [metapopulation](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#metapopulations) consists of numerous small localities (ponds, prairies, etc.) that are separated but not very far apart (hundreds of meters to several kilometers, depending on the species dispersal capacity), and are thus capable of exchanging, on average, at least 1 migrant (one reproductive adult moving between patches) per generation per year. In such cases,
 
-Metapopulations should represent stable spatial and temporal units. Many species have ephemeral subpopulations in dynamic source-sink metapopulations- a sink is a spatial location receiving high immigration from adjacent areas and which would not persist on its own without immigration. Sinks are not distinct populations. The conglomerate of connected subpopulations that should be evaluated as a population.
+* the population size should be considered **the sum of the individual localities** (subpopulations), which may cover tens or hundreds of kilometers, and should be assessed using the Ne 500 indicator
+* it is likely **inappropriate for subpopulations to be individually assessed at the Ne 500 level**; a more appropriate level would be **Ne 50** (that is, the proportion of population sizes with effective population sizes greater than 50 individuals)
+
+For instance, some regulatory agencies evaluate populations at two spatial scales: _analytical units_, which are specific populations or areas used for detailed analysis of a species' biological status, and _representation units_, broader areas that encompass important geographic, genetic, or life history variation to ensure conservation efforts are comprehensive. If indicators are being derived from source documentation using this terminology, it is likely more appropriate to assess _analytical units_ at the level of **Ne 50** and _representation units_ at the level of **Ne 500**. 
+
+Determining whether or not a data source is describing a species at the **metapopulation level** (i.e. appropriate for the Ne 500 indicator) may require difficult interpretations about migration possibilities between occupied patches of landscape. See the ["How to account for uncertainty" section](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/uncertainty.html#how-to-account-for-uncertainty-in-the-number-of-populations-population-size-or-nenc-ratio) for more details.
+
+### When locations change over time
+Metapopulations should represent stable spatial and temporal units. Many species have ephemeral subpopulations in dynamic source-sink metapopulations- a sink being a spatial location receiving high immigration from adjacent areas, which would not persist on its own without immigration. Sinks are not distinct populations. The conglomerate of connected subpopulations that should be evaluated as a population.
 
 ## Considerations when defining populations for some taxonomic groups
 

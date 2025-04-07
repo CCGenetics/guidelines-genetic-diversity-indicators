@@ -5,7 +5,7 @@ nav_order: 11
 has_children: false
 ---
 
-## Get in touch and more help
+## Get in touch and more help :)
 
 If you have a question that is not answered in the guidance documents available here, please post it on the [Genetic Indicators Google Group](https://groups.google.com/g/genetic-indicators-project), and a member will try to answer you as soon as posible.
 
