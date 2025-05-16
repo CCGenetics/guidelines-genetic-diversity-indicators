@@ -11,7 +11,7 @@ A taxon-specific ratio can be obtained in one of several ways:
 
 1. from recent reviews of the literature that have compiled average values for groups such as mammals, bony fish, annual plants, trees, etc. (see [Hoban et al. 2020](https://www.sciencedirect.com/science/article/pii/S0006320720307126)), 
 2. from formulae that take into account a species’ biological characteristics (especially the male:female sex ratio and the variance in offspring production), or 
-3. from published literature on the species or even populations that are the focus of study. For instance, the ratio in large-bodied mammals and in some trees is often closer to 0.3 (thus, for reaching an Ne of 500, the minimum Nc would be 1500). 
+3. from published literature on the species or even populations that are the focus of study. For instance, the ratio in large-bodied mammals and in some trees is often closer to 0.3 (thus, for reaching an Ne of 500, the minimum Nc would be 1,500). 
 
 These are all valid ways of obtaining the ratio. 
 

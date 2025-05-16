@@ -14,7 +14,7 @@ The country indicator values are the mean of each indicator across species (Tabl
 
 Each indicator is easily disaggregated to different taxonomic groups by only including species in that taxonomic category.  The same can be done for different habitats, species commonness, etc.
 
-The equations presented in Table 2 are to be applied when calculating a summary (e.g., national) metric for **either** the Populations Maintained indicator or the Ne > 500 indicator. 
+The equations presented in Table 2 are to be applied when calculating a summary (e.g., national) metric for **either** the Populations Maintained (PM) indicator or the Ne 500 indicator. 
 
 
 ### Table 2. Quantifying Country Indicators
@@ -39,11 +39,11 @@ table th:nth-of-type(3) {
 
 ### Example of indicator values aggregated for several species 
 
-The next result shows the actual indicator values calculated for more than 900 species in the pilot Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Monitoring framework ([Mastretta-Yanes et al. 2024](https://ecoevorxiv.org/repository/view/6104/)). We found that the median across all species for the Ne 500 indicator is 0, i.e. 58% of species have that indicator value.  Worrying, ~70% of species have an indicator value less than 0.25 (Figure 6.2).  **This means that the majority of species have less than 25% of their populations large enough to sustain genetic diversity- most species are likely in danger of or are already experiencing significant genetic losses.**
+The next result shows the actual indicator values calculated for more than 900 species in the pilot Multinational evaluation of genetic diversity indicators for the Kunming-Montreal Global Biodiversity Monitoring framework ([Mastretta-Yanes et al. 2024](https://link.springer.com/article/10.1007/s10592-024-01632-8)). We found that the median across all species for the Ne 500 indicator is 0, i.e. 58% of species have that indicator value.  Worrying, ~70% of species have an indicator value less than 0.25 (see Figure 6.2 below).  **This means that the majority of species have less than 25% of their populations large enough to sustain genetic diversity: most species are likely in danger of or are already experiencing significant genetic losses.**
 
  
 ![](Fig_pilot_indicatorvalues.png)
-##### *Figure. Example of aggregated indicator values*. Proportion of populations with Ne>500 for animals, plants and other taxonomic groups for more than 900 species in 9 countries. Made with data from [Mastretta-Yanes et al (2024)](https://ecoevorxiv.org/repository/view/6104/).
+##### *Figure. Example of aggregated indicator values*. Proportion of populations with Ne>500 for animals, plants and other taxonomic groups for more than 900 species in 9 countries. Made with data from [Mastretta-Yanes et al (2024)](https://link.springer.com/article/10.1007/s10592-024-01632-8).
 
 
 [Previous: Equations and example calculations](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Equations.html#equations-and-example-calculations){: .btn .btn-blue .mr-4 }
