@@ -11,7 +11,7 @@ Equation and definition of each indicator are in Table 1 and [Hoban et al (2023)
 
 The Ne 500 indicator can be reported as a decimal (from 0 to 1) or in the form of a ratio (in the format "Number of populations with Ne > 500" : "Number of populations since recording begun"). Recently extinct populations would have a size of 0 to avoid an increase in the indicator value when populations are lost.
 
-In the case of differing estimates from multiple sources, the most recent reliable source should be used. Multiple sets of indicator values can also be calculated based on multiple sources for a single species (for instance, representing "optimistic" and "pessimistic" scenarios), and in some cases (if appropriate), a mean of the indicator values based on the different sources is taken.
+In the case of differing estimates from multiple sources, the most recent reliable source should be used. Multiple sets of indicator values can also be calculated based on multiple sources for a single species (for instance, representing "optimistic" and "pessimistic" scenarios), and in some cases (if appropriate), a mean of the indicator values based on the different sources is taken. See the [How to account for uncertainty](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/3_Howto_guides_examples/uncertainty.html#how-to-account-for-uncertainty-in-the-number-of-populations-population-size-or-nenc-ratio) page, for more information.
 
 ### Table 1: Equations for calculating the indicator values for each species
 
