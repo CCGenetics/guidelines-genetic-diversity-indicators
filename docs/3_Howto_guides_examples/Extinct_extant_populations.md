@@ -7,13 +7,13 @@ nav_order: 3
 
 # Extinct and extant populations
 
-Once populations are defined in space and the reference period is decided, try to find the most up-to-date information about the populations in the country. To find information about extinct populations, it is possible to either:
+Once populations are defined in space and the reference period is decided, try to find the most up-to-date information about the populations in the country. To find information about populations which have gone extinct, it is possible to either:
 
 * Find direct reports of population extinction (i.e. when literature or local knowledge holders reports about local extinction, etc.), or
 
 * Comparing historical occurrence data (museum, observations by local experts) to newest occurrence data, in which there are no longer any occurrences where there previously were.
 
-In scientific **direct reports of population extinction**, population loss is mainly reported in the introduction or results sections. For example following paragraph in Cressey et al. (2015) regarding the Rose’s Mountain Toadlet:
+In scientific **direct reports of population extinction**, population loss is mainly reported in the introduction or results sections. For example following paragraph in [Cressey et al. (2015)](https://www.cambridge.org/core/journals/oryx/article/fading-out-of-view-the-enigmatic-decline-of-roses-mountain-toad-capensibufo-rosei/31E5257B064E82CE7B4D32F1D92805C4) regarding the Rose’s Mountain Toadlet:
 
 ![](Extinct_pop_Fig1.png)
 

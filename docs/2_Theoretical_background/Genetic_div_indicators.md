@@ -13,7 +13,7 @@ Genetic diversity is variation at the DNA level, and includes differences among 
 
 **Between populations**: the diversity between populations of a species is critical for ensuring the adaptive potential of that species (e.g. to a range of environmental conditions). Loss of any unique, genetically distinct populations can compromise a species’ ability to adapt to change (anthropogenic or otherwise).
 
-It is therefore crucial that all populations be maintained, and that populations are sufficiently large to maintain genetic health. Based on these fundamental premises, we can assess and monitor genetic diversity not only using genetic data, but also by assessing loss of populations and population sizes relative to Ne 500--in other words, by monitoring the processes that affect genetic diversity. The genetic diversity indicators adopted at COP15 by the Global Biodiversity Framework are based on these processes.
+It is therefore crucial that all populations be maintained, and that populations are sufficiently large to maintain genetic health. Based on these fundamental premises, we can assess and monitor genetic diversity not only using genetic data, but also by assessing loss of populations and population sizes relative to Ne 500--in other words, by monitoring the processes that affect genetic diversity. The genetic diversity indicators adopted at COP15 by the [Global Biodiversity Framework](https://www.cbd.int/doc/c/e6d3/cd1d/daf663719a03902a9b116c34/cop-15-l-25-en.pdf) are based on these processes.
 
 
 ![](PMNe500_diagram.png) 

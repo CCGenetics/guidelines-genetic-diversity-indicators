@@ -35,7 +35,7 @@ A short note which highlights some of the challenges to using genetic diversity 
 
 ## Other resources
 
-For additional resources please refer to the [Coalition for Conservation Genetics Capacity Building Resource Page](https://www.coalitionforconservationgenetics.org/resources-database/category/Capacity%20building) to gain access to Policy briefs, the latest headline indicator metadata, webinars and other Capacity Building Resources and additional scientific publications.  
+For additional resources please refer to the [Coalition for Conservation Genetics Capacity Building Resource Page](https://www.coalitionforconservationgenetics.org/resources-database/category/Capacity%20building) to gain access to policy briefs, the latest headline indicator metadata, webinars and other capacity building resources, and additional scientific publications.  
 
 [Previous: Glossary](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#glossary){: .btn .btn-blue .mr-4 }
 [Next: Contact & How to cite](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/Contact_cite/Contact_cite.html#get-in-touch-and-more-help){: .btn .btn-green }

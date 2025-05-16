@@ -15,7 +15,7 @@ For general feedback or if you would like to get involved, please contact the Co
 
 ## How to cite
 
-This documentation is dual-licensed under CC BY 4.0. Attribution 4.0 Internationa for the media and all non-software materials and MIT License for the scripts and other provided code [LICENSE](https://raw.githubusercontent.com/CCGenetics/guidelines-genetic-diversity-indicators/main/LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme.  
+This documentation is dual-licensed under CC BY 4.0. Attribution 4.0 International for the media and all non-software materials and MIT License for the scripts and other provided code [LICENSE](https://raw.githubusercontent.com/CCGenetics/guidelines-genetic-diversity-indicators/main/LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme.  
 
 If you use any of the materials of these guidelines **please cite**:
 
