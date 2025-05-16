@@ -104,7 +104,7 @@ table th:nth-of-type(5) {
 
 \* Needed to perform summary analyses or aggregate results by desired categories.
 
-^ The GBIF taxon id is useful because it links the taxonomic identification of the species to other information, and to track taxonomic changes. The common names of the species are useful for communication and community participation. 
+^ The GBIF taxon ID is useful because it links the taxonomic identification of the species to other information, and to track taxonomic changes. The common names of the species are useful for communication and community participation. 
 
 {: .note }
 Other useful metadata include the realm (terrestrial, aquatic, marine), and ecosystem (e.g. rainforest), as well as threat status. These are not required, but they are useful to disaggregate the indicators.
