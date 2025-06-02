@@ -126,7 +126,7 @@ In animals, the Nc is often estimated by scientific studies or wildlife monitori
 
 To search, you can use a scientific literature search engine with the species name +  “census population size”, “Nc” or “abundance”. You can also add “capture-mark-recapture” or other methods to your search for animal species. Mainly look into the Abstract or Results sections of literature (especially in Tables) to see if any study reports Nc. For plants, you can also search forestry reports and databases, include the search term “density” (in addition to those listed aboce), as density in a given area is often reported and it can be extrapolated if the inhabited area is known. 
 
-Studies reporting Nc will usually have the Nc values in a table or in the results section. For example, the following text extract from Becker et al. (2017):
+Studies reporting Nc will usually have the Nc values in a table or in the results section. For example, the following text extract from [Becker et al. (2017)](https://www.researchgate.net/publication/325157853_Estimating_the_Population_Size_of_a_Rare_and_Elusive_Species_the_Case_of_Rose's_Mountain_Toadlet):
 
 ![](Pop_sizes_Fig4.png)
 
