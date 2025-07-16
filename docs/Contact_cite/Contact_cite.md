@@ -15,11 +15,11 @@ For general feedback or if you would like to get involved, please contact the Co
 
 ## How to cite
 
+If you use any of the materials of these guidelines, including R scripts **please cite**:
+
+Mastretta-Yanes, A., Suárez, S., Jordan, R., Hoban, S., da Silva, J. M., Castillo-Reina, L., Heuertz, M., Ishihama, F., Köppä, V., Laikre, L., MacDonald, A. J., Mergeay, J., Paz-Vinas, I., Segelbacher, G., Knapps, A., Rakoczy, H., Weiler, A., Atsaves, A., Cullmann, K., … Forester, B. R. (2024). Guideline Materials and Documentation for the Genetic Diversity Indicators of the Monitoring Framework for the Kunming-Montreal Global Biodiversity Framework. **Biodiversity Informatics**, 18. [https://doi.org/10.17161/bi.v18i.22332](https://doi.org/10.17161/bi.v18i.22332)
+
 This documentation is dual-licensed under CC BY 4.0. Attribution 4.0 International for the media and all non-software materials and MIT License for the scripts and other provided code [LICENSE](https://raw.githubusercontent.com/CCGenetics/guidelines-genetic-diversity-indicators/main/LICENSE). The repository uses the [Just the Docs](https://just-the-docs.com/) theme.  
-
-If you use any of the materials of these guidelines **please cite**:
-
-Mastretta-Yanes, A., Sofía Suárez, Rebecca Jordan, Sean Hoban, Jessica M. da Silva, Luis Castillo-Reina, Myriam Heuertz, Fumiko Ishihama, Viktoria Köppä, Linda Laikre, Joachim Mergeay, Ivan Paz-Vinas, Gernot Segelbacher, Alicia Knapps, Henry Rakoczy, Amelie Weiler & Brenna R. Forester. **Guideline materials and documentation for the Genetic Diversity Indicators**. https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/. [https://zenodo.org/doi/10.5281/zenodo.10976424](https://zenodo.org/doi/10.5281/zenodo.10976424)
 
 ## Acknowledgments
 
