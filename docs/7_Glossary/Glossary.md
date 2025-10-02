@@ -49,6 +49,12 @@ Isolation by distance describes a pattern of genetic variation across a species�
 ### Genetic markers
 The form of genetic variation used to measure DNA-level diversity within the population or species. Multiple genetic markers exist for assessing genetic diversity at the DNA-level including single nucleotide polymorphisms (SNPs), microsatellites, and chloroplast or mitochondrial DNA sequences. All markers are valid and useful for estimating genetic diversity and Ne, with some differences in the type and level of information each can provide.
 
+### Hybridization
+The interbreeding between individuals from two genetically distinct populations, lineages, or species, producing offspring with mixed ancestry.
+
+### Introgression
+The incorporation of genetic material from one population, lineage, or species into another through repeated backcrossing of hybrids with one of the parental groups.
+
 ### Genetic studies 
 
 - #### Phylogenetic studies
@@ -106,19 +112,22 @@ A metapopulation consists of numerous groups of individuals (subpopulations), oc
 ### Closely related species
 For the purpose of calculating genetic indicators, closely related species are those species who share a more recent common ancestor, compared to other species, e.g. species in the same genus or sub-genus. Such species will be more genetically similar to each other than other, less related species and may share some life history similarities.
 
-### Origin  of population 
+### Origin of population 
 
 - #### Historically natural populations
-are those where the native gene pool has been in that location for ‘some generations’ (e.g. before human influences). The genetic variation within these populations has developed through natural evolutionary processes and represents a unique, native gene pool within the species.
+Populations where the native gene pool has been in that location for ‘some generations’ (e.g. before human influences). The genetic variation within these populations has developed through natural evolutionary processes and represents a unique, native gene pool within the species.
 
 - #### Introduced populations
-are populations that in the recent past (e.g. past hundreds of years) have never been known to occur at that particular location. Now they exist there, due to active translocation of individuals to that location. Depending on the source of the introduced individuals, the genetic composition of the introduced population may not represent a unique genetic population from a genetic diversity indicator perspective. Rather, the genetic composition should be considered an expansion of the source population(s), as its genetic composition reflects the source population(s), not the naturally occurring genetic composition at the location.
+Populations that in the recent past (e.g. past hundreds of years) have never been known to occur at that particular location. Now they exist there, due to active translocation of individuals. Depending on the source of the introduced individuals, the genetic composition of the introduced population may not represent a unique genetic population from a genetic diversity indicator perspective. Rather, the genetic composition should be considered an expansion of the source population(s), as its genetic composition reflects the source population(s), not the naturally occurring genetic composition at the location.
 
 - #### Re-introduced  populations
-are populations that went extinct in a location and have since been reintroduced, by humans or, more rarely, through natural processes. Depending on the source of the re-introduced individuals, the genetic composition of re-introduced populations may differ from the original genetic composition at that location. Reintroductions can be done from captive breeding with small population sizes, thus likely presenting a mixed population origin, or sourcing individuals from another location. This will influence whether the original population, with its unique genetic composition, may be considered extant (noting potential genetic changes due to bottlenecks), or not.
+Populations that went extinct in a location and have since been reintroduced, by humans or, more rarely, through natural processes. Depending on the source of the re-introduced individuals, the genetic composition of re-introduced populations may differ from the original genetic composition at that location. Reintroductions can be done from captive breeding with small population sizes, thus likely presenting a mixed population origin, or sourcing individuals from another location. This will influence whether the original population, with its unique genetic composition, may be considered extant (noting potential genetic changes due to bottlenecks), or not.
 
 - #### Supplemented (aka reinforced)
-populations are naturally occurring populations that have a native gene pool but have had new individuals introduced to support the population. Depending on the origin of the new individuals, e.g. from a breeding population or other population, the reinforced population may contain non-local genetic material. The genetic composition of such populations thus can be a  combination of the native gene pool and non-native variation from other populations.
+Populations are naturally occurring populations that have a native gene pool but have had new individuals introduced to support the population. Depending on the origin of the new individuals, e.g. from a breeding population or other population, the reinforced population may contain non-local genetic material. The genetic composition of such populations thus can be a  combination of the native gene pool and non-native variation from other populations.
+
+- #### *Ex situ* collections
+Collections of living organisms (or their seeds or tissue) that are maintained outside the natural habitats of those organisms for the purpose of ensuring their survival and future propagation. Because the genetic diversity indicators are meant to provide an assessment of the genetic status of wild populations, *ex situ* collections (and the individuals within them) should generally not be included in indicator calculations. 
  
 [Previous: Calculations and reporting](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/6_Calculations_and_reporting/Calculations_and_reporting.html#calculations-and-reporting){: .btn .btn-blue .mr-4 }
 [Next: Reference and other resources](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/Video_resources/References_and-resources.html#references-and-other-resources){: .btn .btn-green }
