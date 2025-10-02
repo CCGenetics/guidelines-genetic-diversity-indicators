@@ -35,7 +35,7 @@ The precise years and thresholds mentioned below are examples, and should be ada
       * Population not visited in more than 40 years: likely consider extinct. (In the example above, the population would be considered extinct.)
       
 3. **Scenario 3**: Unknown population size trends and unknown threats
-  *_Example_: Population estimated at 200 individuals in 1980; unvisited since. No knowledge regarding threats.
+  * _Example_: Population estimated at 200 individuals in 1980; unvisited since. No knowledge regarding threats.
   
   * _Recommendation_: Based on any available expert opinion, the assessor should make their best judgement about extinction as follows (note that these recommendations are similar to those for Scenario #2, but shift the degree of certainty because threats are not known):
       * Population visited and known as extant within the past 20 years: consider extant
