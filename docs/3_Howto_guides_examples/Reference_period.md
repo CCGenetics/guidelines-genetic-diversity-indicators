@@ -25,6 +25,7 @@ The precise years and thresholds mentioned below are examples, and should be ada
   * _Example 1_: Population estimated at 200 individuals in 1980 and 50 individuals in 2000; unvisited since.
   * _Example 2_: Population estimated at 200 individuals in 1980 and 150 individuals in 2000; unvisited since.
   * _Recommendation_: Assuming a known negative trend in population size which would result in zero individuals when extrapolated to the present, and no recent (≤10 years) visits, the population should very likely be considered extinct (Example 1). Otherwise, if the population size trend indicates a nonzero number of individuals when extrapolated to the present (Example 2), then the population should be considered extant.
+  
 2. **Scenario 2**: Unknown population size trends but known threats
  * _Example_: Population estimated at 200 individuals in 1980; unvisited since. However, there are known threats (e.g. habitat loss, disease, poaching, etc.)  to the species and/or the population in question which are ongoing, strongly suggesting population decline.
  
@@ -32,6 +33,7 @@ The precise years and thresholds mentioned below are examples, and should be ada
       * Population visited and known as extant within the past 20 years: likely consider extant
       * Population not visited in more than 20 years: possibly consider extinct
       * Population not visited in more than 40 years: likely consider extinct. (In the example above, the population would be considered extinct.)
+      
 3. **Scenario 3**: Unknown population size trends and unknown threats
   *_Example_: Population estimated at 200 individuals in 1980; unvisited since. No knowledge regarding threats.
   
