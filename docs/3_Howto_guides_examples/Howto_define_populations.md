@@ -7,7 +7,7 @@ nav_order: 1
 
 # How to define populations 
 
-A population is a group of individual organisms that can mate with each other  and have low or no connectivity with other populations (see What is a population? section ) . This definition aligns with the IUCN Red List Guidelines definition of a “subpopulation” - geographically or otherwise distinct groups between which there is little demographic or genetic exchange (typically less than one successful migrant individual or gamete per year) ([IUCN 2001](https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001.pdf)). 
+A population is a group of individual organisms that can mate with each other  and have low or no connectivity with other populations (see What is a population? section ) . This definition aligns with the IUCN Red List Guidelines definition of a “subpopulation” - geographically or otherwise distinct groups between which there is little demographic or genetic exchange (typically less than one successful migrant individual or gamete per year; [IUCN 2001](https://portals.iucn.org/library/sites/library/files/documents/RL-2001-001.pdf)). 
 
 Genetic differences mostly arise as a product of spatial and temporal isolation over time due to random processes (genetic drift) and as an effect of population size. Populations separated by more time can have more differences. Designation of populations should also consider human induced gene flow (e.g. reintroductions, translocations). 
 
@@ -112,6 +112,13 @@ Determining whether or not a data source is describing a species at the **metapo
 
 ### When locations change over time
 Metapopulations should represent stable spatial and temporal units. Many species have ephemeral subpopulations in dynamic source-sink metapopulations--a sink being a spatial location receiving high immigration from adjacent areas, which would not persist on its own without immigration. Sinks are not distinct populations; the conglomerate of connected subpopulations should be evaluated as a population.
+
+## *Ex situ* Collections
+[*Ex situ* collections](https://ccgenetics.github.io/guidelines-genetic-diversity-indicators/docs/7_Glossary/Glossary.html#metapopulations) are collections of living organisms (or their seeds or tissue) that are maintained outside the natural habitats of those organisms for the purpose of ensuring their survival and future propagation. Because the genetic diversity indicators are meant to provide an assessment of the genetic status of wild populations, ***ex situ*** **collections (and the individuals within them) should generally not be included in indicator calculations**. 
+
+In some instances, it may be challenging to distinguish between an *ex situ* collection and an introduced or reintroduced population: for instance, when large numbers of individuals are maintained (e.g. in large fenced areas, gardens, or managed wild areas) to provide redundancy or to produce offspring for periodically stocking existing populations. In these cases, assessors are asked to use their best judgement in determining whether or not a given collection of individuals should be considered a population (or as actively contributing to a wild population) to include in indicator calculations. 
+
+For instance, if there is evidence of gene flow from such collections into wild populations, or if there is an intent to eventually manage the collection as a wild population, then it may be appropriate to include such groups in indicator calculations (for example, by summing the Nc of the ex situ collection with the Nc of the in situ population for determining the Nc of the population as a whole, before converting to Ne for the Ne 500 indicator).
 
 ## Considerations when defining populations for some taxonomic groups
 
