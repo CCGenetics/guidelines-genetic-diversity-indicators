@@ -28,7 +28,6 @@ The precise years and thresholds below are examples, and should be adapted to un
   
 2. **Scenario 2**: Unknown population size trends but known threats
   * _Example_: Population estimated at 200 individuals in 1980; unvisited since. However, there are known threats (e.g. habitat loss, disease, poaching, etc.)  to the species and/or the population in question which are ongoing, strongly suggesting population decline.
- 
   * _Recommendation_:  Based on threat severity, the organism’s likelihood of persistence given different traits (life span, growth habit, life history, etc.), and available expert opinion, the assessor should make their best judgement about extinction as follows:
       * Population visited and known as extant within the past 20 years: likely consider extant
       * Population not visited in more than 20 years: possibly consider extinct
